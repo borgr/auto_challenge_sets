@@ -1,0 +1,24 @@
+# sent_id = 50251	Da	da	ADV	ADV	_	2	advmod	_	_
+2	schluchzte	schluchzen	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	laut	laut	ADP	APPR	_	2	obl	_	_
+5	auf	auf	ADP	PTKVZ	_	4	case	_	_
+6	.	.	PUNCT	$.	_	2	punct	_	_
+
+
+# sent_id = 50251	Da	da	ADV	ADV	_	2	advmod	_	_
+2	schluchzte	schluchzen	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	laut	laut	ADP	APPR	_	2	obl	_	_
+5	auf	auf	ADP	PTKVZ	_	4	case	_	_
+6	.	.	PUNCT	$.	_	2	punct	_	_
+
+
+# sent_id = 50251	Da	da	ADV	ADV	_	2	advmod	_	_
+2	schluchzte	schluchzen	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	laut	laut	ADP	APPR	_	2	obl	_	_
+5	auf	auf	ADP	PTKVZ	_	4	case	_	_
+6	.	.	PUNCT	$.	_	2	punct	_	_
+
+
