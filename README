@@ -1,0 +1,33 @@
+# auto_challenge_sets
+Automatically Extracting Challenge Sets for Non-local Phenomena in Neural Machine Translation git repo
+
+In "challenge" directory there is a large number of subsets: 
+* en or de extensions represent English or German sentences in the file (parallelism is done "Moses" style, line by line)
+* conllu extention represent UD extracted using UDPIPE (May 2019)
+* ids extention represent ids of the sentences taken from the general corpus
+* Most files are extracted from Books corpus if the are not "news" is in their name and they come from newstest2013
+* Base files have no additional words, additional data is separated by underscores ("_")
+* Reordering files contain the word "reorder" in their name 
+* Reordering files contain the minimum distance as a number (e.g. 5)
+* LDD phenomena contain the name of the phenomena (reflexive, particle, preposition_stranding)
+* LDD files contain the minimum distance as a number (e.g. 0,2,3,4,5) if it is not minimum of 1 that is considered the default
+* LDD that for which distant is exactly x and not a minimum of x contain the word "exactly"
+* Some versions contain a marking on where the head and dependent are found, those contain "marked" in the filename
+* when Unescaping was added as a preprocessing step ".unsec" is added before the extension
+
+To extract your own challenge sets:
+Lexical LDDs:
+Use the function extract_distant_heads in extract_phenomena (original main exists as an example code)
+The function expects a conllu file, output path and a condition of the phenomenon
+You can use your own function receiving head and dependent attributes as tuples (idx, form, lemma, upos, xpos, feats, head, deprel, deps, misc) 
+or you can use one of the three conditions tested in the paper
+"particle_condition"
+"reflexive_condition"
+"preposition_stranding_condition"
+
+For reordering LDDs:
+Use the function ind_reordered_sentences in evaluate model
+it expects a source and ref files, as well as working directory and a fastext alignment model
+
+
+If you have found it useful, please cite
