@@ -2,7 +2,6 @@
 Automatically Extracting Challenge Sets for Non-local Phenomena in Neural Machine Translation git repo
 
 Please cite if you find it useful:
-  https://www.aclweb.org/anthology/K19-1028/
   ```
   @inproceedings{choshen-abend-2019-automatically,
   title = "Automatically Extracting Challenge Sets for Non-Local Phenomena in Neural Machine Translation",
