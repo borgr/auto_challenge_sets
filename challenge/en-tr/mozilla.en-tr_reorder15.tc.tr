@@ -1,0 +1,18 @@
+tüm Firefox kurulumlarında tüm profil verilerinizin aynı olmasını istiyorsanız { -fxaccount @-@ brand @-@ Name } ile verilerinizi eşitleyebilirsiniz .
+lütfen ana parolanızı unutmayacağınızdan emin olun . ana parolanızı unutursanız , bu cihazda ana parolayla korunan hiçbir bilgiye erişemezsiniz .
+Cihazınız kaybolursa hesabınıza tekrar erişebileceğinizden emin olmak için lütfen Kaydettiğiniz kurtarma kodlarınızdan birini girin .
+# 1 bu sitenin # 2 açılır pencere açmasını engelledi .
+tüm çökme raporları ( belirtilen zaman aralığındaki # 1 bekleyen çökme dahil )
+ana parola ile diğer parolalarınızı koruyabilirsiniz . ana parola oluşturmanız durumunda & brandShortName ; her oturumda kayıtlı bilgilere ulaşmak istediğinde size ana parolayı soracaktır .
+{ -brand @-@ Name } kullanıyorsanız veri ihlaline uğramış bir siteyi ziyaret ettiğinizde bildirim alacaksınız . İhlale dahil olup olmadığınızı ve ne yapabileceğinizi anında öğrenebilirsiniz .
+genelde çok sayıda açık sekmeyle çalışıyorsanız ihtiyacınız olanı arayıp bulmanın bazen zorlaştığını bilirsiniz . Eklentiler , sekme yönetimini kolaylaştırmak için yaratıcı çözümler sunabilir .
+alarmı # 1 aydan fazla erteleyemezsiniz .
+Parolalarını cebinde taşıyabilirsin . Telefonundan Firefox Hesabına giriş yaparsan parolaların her yere seninle birlikte gelir . Telefonundan sitelere giriş yaparken hesap bilgilerin otomatik olarak belirir .
+düzenleme moduna girdiğinizde tüm yazı seçilecek . çeviri yaparken asıl yazıyı görebilir , çeviri için ne kadar karakter daha yazabileceğinizi görebilirsiniz .
+Projendeki dosyaların toplam boyutu , kullanılabilen en fazla alanı aştı . yer açmak için bazı dosyaları silmezsen yeni dosya ekleyemezsin .
+seçili # 1 alt dizinin cevapları gösterilmeyecek .
+seçili # 1 dizinin cevapları gösterilmeyecek .
+% S varsayılan posta uygulaması olarak ayarlanamıyor çünkü kayıt anahtarı güncellenemiyor . kayıt defterine yazma hakkınız olup olmadığını sistem yöneticinize sorup tekrar deneyin .
+kayıt defterine yazma hakkınız olup olmadığını sistem yöneticinize sorup tekrar deneyin . % S varsayılan haber uygulaması olarak ayarlanamıyor çünkü kayıt anahtarı güncellenemiyor .
+Dosyanız bağlanıyor . İşlem tamamlandığında ileti gövdesinde görünecek . ; Dosyalarınız bağlanıyor . İşlem tamamlandığında ileti gövdesinde görünecekler .
+ses kayıtlarınızı veri kümelerinden kaldırma isteğinizi inceleyeceğiz . İsteğiniz onaylanırsa , veri kümesini indirenlerle iletişim kuracak ve ses kayıtlarınızı kaldırmalarını isteyeceğiz .

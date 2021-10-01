@@ -1,0 +1,375 @@
+uyarı : bu eklenti doğrulanmamış . kötü amaçlı eklentiler kişisel bilgilerinizi çalabilir veya bilgisayarınızı tehlikeye atabilir . yalnızca kaynağına güveniyorsanız bu eklentiyi yükleyin .
+devam ederseniz risk size aittir . uyarı : bu site # 1 üzerinde doğrulanmamış # 2 eklenti yüklemek istiyor .
+bu gelişmiş ayarları değiştirmek bu uygulamanın istikrarına , güvenliğine ve performansına zarar verebilir . sadece ne yaptığınızdan eminseniz devam etmelisiniz .
+sadece ne yaptığınızdan eminseniz devam etmelisiniz . bu gelişmiş ayarların değerlerini değiştirmek bu uygulamanın istikrarına , güvenliğine ve başarımına zarar verebilir .
+performans testi amacıyla bazı eklentilerinizi devre dışı bıraktık . onlar Eklenti Yöneticisi ' nden yeniden etkinleştirebilirsiniz .
+henüz değil ... ama yakında o da olacak . herkesin kolayca kendi dilinde Firefox düğmeleri oluşturabilmesi üzerinde çalışıyoruz . Firefox kardeşleri ' nin ileriki sürümlerini bekleyin .
+bu { -brand @-@ Short @-@ Name } tarayıcısını başka kullanıcılarla ortak kullanıyorsanız her kullanıcının bilgilerini birbirinden ayrı tutmak için profilleri kullanabilirsiniz . bunun için her kullanıcı kendi profilini oluşturmalıdır .
+daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir . lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin .
+ana parolanızı silerseniz bilgileriniz korunmaz .
+ana parolanızı sıfırlarsanız tüm kayıtlı web ve e @-@ posta parolalarınız , form verileriniz , kişisel sertifikalarınız ve özel anahtarlarınız silinecektir . ana parolanızı sıfırlamak istediğinizden emin misiniz ?
+ana parolanızı sıfırlamak istediğinizden emin misiniz ? ana parolanızı sıfırlarsanız tüm kayıtlı web ve e @-@ posta parolalarınız , kişisel sertifikalarınız ve özel anahtarlarınız silinecektir .
+tüm Firefox kurulumlarında tüm profil verilerinizin aynı olmasını istiyorsanız { -fxaccount @-@ brand @-@ Name } ile verilerinizi eşitleyebilirsiniz .
+her hesap için benzersiz ve güvenli parolalar düşünmek zordur . parola alanını seçerek { -brand @-@ Shorter @-@ Name } ile güvenli parolalar oluşturabilirsiniz .
+o da kolay . kodu silmeniz yeterli . geri getirmek isterseniz Düğme seçiciden kodu tekrar kopyalayıp yapıştırabilirsiniz .
+yalnızca listelenen eklentiler için geçerlidir . seçilirse , SDK ' nın yeni bir sürümü çıktığında eklentinizi otomatik olarak yeni yükseltmeye çalışacağız .
+daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir . lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin .
+Eklentiniz deneysel ise veya genel kullanım için hazır değilse . Eklenti listelenir , ancak görünürlüğü azalmış olacaktır .
+Eklentiniz kullanıcı bilgisayarından herhangi bir veri iletiyorsa , hangi verilerin gönderildiğini ve nasıl kullanıldığını açıklayan bir gizlilik ilkesi gereklidir .
+yalnızca listelenen eklentiler için geçerlidir . Eklentiniz kullanıcı bilgisayarından herhangi bir veriyi iletiyorsa , hangi verilerin gönderildiğini ve nasıl kullanıldığını açıklayan bir gizlilik ilkesi gereklidir .
+lütfen ana parolanızı unutmayacağınızdan emin olun . ana parolanızı unutursanız , ana parolayla korunan hiçbir bilgiye erişemezsiniz .
+lütfen ana parolanızı unutmayacağınızdan emin olun . ana parolanızı unutursanız , bu cihazda ana parolayla korunan hiçbir bilgiye erişemezsiniz .
+< P > Görüntülemeye çalıştığınız sayfa gösterilemiyor çünkü alınan verilerin gerçekliği doğrulanamadı . < / P > < ul > < li > Bu sorunu bildirmek için lütfen site sahipleriyle iletişime geçin . < / li > < / ul >
+% S kaydedilemedi çünkü disk , klasör veya dosya yazma korumalı . \ n \ nDiskteki yazma korumasını kaldırıp yeniden denemeyi veya başka bir yere kaydetmeyi deneyin .
+% S kaydedilemedi çünkü o klasörün içeriğini değiştiremezsiniz . \ n \ nKlasör özelliklerini değiştirip yeniden deneyin ya da başka bir yere kaydetmeyi deneyin .
+programın kısayollarının oluşturulacağı Başlat menüsü klasörünü seçin . yeni bir klasöre oluşturmak isterseniz isim de girebilirsiniz .
+yine mi olmadı ? bazen sorun tek bir sekmeden kaynaklanıyor olabilir . önceki sekmelerinize bir bakın , geri yüklenmesi gerekmeyen sekmelerin işaretini kaldırıp yeniden deneyin .
+belgenin karakter kodlama tanımı , etkili olması için fazlasıyla geç bulundu . kodlama tanımını dosyanın ilk 1024 baytına taşımalısınız .
+HTML belgesinin karakter kodlaması belirtilmemiş . belge US @-@ ASCII kapsamı dışında karakterler içeriyorsa bazı tarayıcı yapılandırmalarında yazılar bozuk görünebilir . sayfanın karakter kodlaması belgede veya transfer protokolünde belirtilmelidir .
+aşağıdaki web siteleri kameranıza erişme isteğinde bulundu . hangi web sitelerinin kameranıza erişebileceğini seçebilirsiniz . ayrıca kameranıza erişme isteklerini tamamen engelleyebilirsiniz .
+aşağıdaki web siteleri konumunuza erişme isteğinde bulundu . hangi web sitelerinin konumunuzu öğrenebileceğini seçebilirsiniz . ayrıca konumunuzu öğrenme isteklerini tamamen engelleyebilirsiniz .
+aşağıdaki web siteleri mikrofonunuza erişme isteğinde bulundu . hangi web sitelerinin mikrofonunuza erişebileceğini seçebilirsiniz . ayrıca mikrofonunuza erişme isteklerini tamamen engelleyebilirsiniz .
+aşağıdaki web siteleri sanal gerçeklik cihazlarınıza erişme isteğinde bulundu . hangi web sitelerinin sanal gerçeklik cihazlarınıza erişebileceğini seçebilirsiniz . ayrıca sanal gerçeklik cihazlarınıza erişim isteklerini tamamen engelleyebilirsiniz .
+bu sayfaya girdiğiniz bilgiler güvensiz bir bağlantı üzerinden gönderilecektir ve üçüncü bir kişi tarafından okunabilirler . \ n \ nBu bilgileri göndermek istediğinizden emin misiniz ?
+kodlama tanımını dosyanın ilk 1024 baytına taşımalısınız . HTML belgesinin karakter kodlama tanımı , dosyanın ilk 1024 baytının ön taraması yapılırken bulunamadığı için sayfa yeniden yüklendi .
+bakmak istediğiniz sayfa açılması güvenli olmayan bir dosya türünde kaydedilmiş olduğundan gösterilemiyor . lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin .
+bakmak istediğiniz sayfa açılması güvenli olmayan bir dosya türünde kaydedilmiş olduğundan gösterilemiyor . lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin .
+korumalar panosu , veri ihlalleri ve parola yönetimi hakkında özet raporlar içerir . İhlallerin kaçını çözdüğünüzü izleyebilir , kayıtlı parolalarınızın veri ihlalleri kapsamında ele geçirilip geçirilmediğini görebilirsiniz .
+nesnenin kendisi ve onu canlı tutan diğer nesnelerin toplam boyutu
+bu kişisel sertifika yüklenemez çünkü sertifika istendiğinde oluşturulan ilişkili özel anahtara sahip değilsiniz .
+yeni sürümler inceleme bekleme sırasına alınır ve inceleme gerçekleşmeden önce gönderilen daha yeni bir güncelleme o sürümü son sıraya taşır .
+başka pencerelerden gelen belgelerde document.load kullanımı yasaktır . sadece belgenin oluşturulduğu pencerede o belge için .load çağrılabilir . onun yerine tercihen XMLHttpRequest kullanınız .
+İnternete bağlı olduğunuzda bu bölümde denemeniz için en iyi ve en popüler eklentilerden bazıları öne çıkarılacak .
+İnternete bağlı olduğunuzda bu bölümde denemeniz için en iyi ve en popüler eklentilerden bazıları öne çıkarılacak .
+devam etmek istediğinizden emin misiniz ? % S sekme açmak üzeresiniz . sayfalar yüklenirken % S yavaşlayabilir .
+devam etmek istediğinizden emin misiniz ? % S sekme açmak üzeresiniz . sayfalar yüklenirken % S yavaşlayabilir .
+kayıtlı bir ön değeriniz yok . bir isim seçip kaydederek filtre öndeğerlerini saklayabilirsiniz . ön değerler kolay erişilebilirdir ve onları kolayca tekrar kullanabilirsiniz .
+Eklentileriniz ve özelleştirmeleriniz kaldırıldı , tarayıcı ayarlarınız varsayılan ayarlara döndürüldü . bu da sorununuzu çözmediyse < a Data @-@ l10n @-@ Name = " link @-@ More " > başka ne yapabileceğinizi öğrenin . < / a >
+e @-@ posta adresinizi eklenti geliştiricilerine açıklamıyoruz , oysa sorunu gidermek için sizinle iletişime geçmeleri gerekebilir . İncelemelerde lütfen hata raporları göndermeyin .
+sizi merak ettik . bir hafta önce bir Firefox hesabı oluşturduğunuz ama hesabınızı onaylamadınız . Hesabınızı etkinleştirmek için bu e @-@ posta adresinizi doğrulamalısınız .
+sizi merak ettik . bir hafta önce bir Firefox hesabı oluşturduğunuz ama hesabınızı onaylamadınız . Hesabınızı etkinleştirmek için bu e @-@ posta adresinizi doğrulamalısınız .
+teknik konular , destek istekleriniz veya özellik önerileri göndermek . varsa , her eklenti için mevcut destek seçeneklerini kullanın . bu seçenekleri Bu Eklenti Hakkında bölümünün yanındaki sütunda bulabilirsiniz .
+güvenlik nedeniyle hesabınız kilitlendi . hesap üzerinde işlem yapmak için lütfen % ( email ) s adresine gönderilen doğrulama bağlantısına tıklayarak hesabınızı yeniden doğrulayın
+güvenlik sebepleriyle Firefox Hesabınız kilitlendi . hesap ayarlarınızı değiştirebilmek için lütfen bağlantıya tıklayarak hesabınızı yeniden doğrulayın .
+birisinin hesabınıza girmeye çalıştığından şüpheleniyorsanız < a % ( supportLinkAttributes ) s > lütfen bize bildirin < / a > .
+birisinin hesabınıza girmeye çalıştığından şüpheleniyorsanız lütfen bize bildirin .
+bu hesabı AMO , Pocket ve Screenshots Mozilla uygulamalarında ve servislerinde kullanıyorsanız , önce onlara giriş yaparak kişisel bilgileri kaldırmanızı öneririz . buradaki hesabınızı sildikten sonra diğer uygulamalara da ulaşamazsınız .
+bu hesabı AMO , Pocket ve Screenshots Mozilla uygulamalarında ve servislerinde kullanıyorsanız , önce onlara giriş yaparak kişisel bilgileri kaldırmanızı öneririz . buradaki hesabınızı sildikten sonra diğer uygulamalara da ulaşamazsınız .
+bu hesabı AMO , Pocket ve Screenshots Mozilla uygulamalarında ve servislerinde kullanıyorsanız , önce onlara giriş yaparak kişisel bilgileri kaldırmanızı öneririz . buradaki hesabınızı sildikten sonra diğer uygulamalara da ulaşamazsınız .
+bu hesabı AMO , Pocket ve Screenshots Mozilla uygulamalarında ve servislerinde kullanıyorsanız , önce onlara giriş yaparak kişisel bilgileri kaldırmanızı öneririz . buradaki hesabınızı sildikten sonra diğer uygulamalara da ulaşamazsınız .
+yeni kodlar oluşturuldu . bu tek kullanımlık kodları güvenli bir yerde saklayın . mobil cihazınıza ulaşamassanız hesabınıza erişmek için bunlara ihtiyacınız olacak .
+< span > Parolanızı unutmayın < / span > Parolanızı sıfırlamanız gerekirse cihazlarınızda kayıtlı olmayan tüm Sync verilerinizi kaybedersiniz .
+< span > Parolanızı unutmayın < / span > Parolanızı sıfırlamanız gerekirse cihazlarınızda kayıtlı olmayan tüm Sync verilerinizi kaybedersiniz .
+< span > Parolanızı unutmayın < / span > Parolanızı sıfırlamanız gerekirse cihazlarınızda kayıtlı olmayan tüm Sync verilerinizi kaybedersiniz .
+< span > Parolanızı unutmayın < / span > Parolanızı sıfırlamanız gerekirse cihazlarınızda kayıtlı olmayan tüm Sync verilerinizi kaybedersiniz .
+Cihazınız kaybolursa hesabınıza tekrar erişebileceğinizden emin olmak için lütfen Kaydettiğiniz kurtarma kodlarınızdan birini girin .
+Firefox hesabınızda şüpheli bir davranış tespit ettik . Firefox Hesabınıza yetkisiz erişimi önlemek için hesabınızdaki tüm cihazların bağlantısını kestik ve önlem olarak parolanızı değiştirmenizi istiyoruz .
+bunu duyduğumuza üzüldük . bu cihaza gerçekten güvenmiyorsanız hem Firefox Hesabı parolanızı hem de Firefox ' ta kayıtlı olan parolalarınızı değiştirmelisiniz .
+Parolanızı sıfırlarsanız verilerinize erişmek için kurtarma anahtarınızı kullanamayacaksınız .
+Hesabızın gizliliği , ilkelerimizde yaptığımız değişiklikler , hesabınızın işlevselliği ve Firefox Hesabınızı kullanmaya başlamayla ilgili e @-@ postalar alacaksınız .
+Hesabızın gizliliği , ilkelerimizde yaptığımız değişiklikler , hesabınızın işlevselliği ve Firefox Hesabınızı kullanmaya başlamayla ilgili e @-@ postalar alacaksınız .
+Hesabızın gizliliği , ilkelerimizde yaptığımız değişiklikler , hesabınızın işlevselliği ve Firefox Hesabınızı kullanmaya başlamayla ilgili e @-@ postalar alacaksınız .
+Hesabızın gizliliği , ilkelerimizde yaptığımız değişiklikler , hesabınızın işlevselliği ve Firefox Hesabınızı kullanmaya başlamayla ilgili e @-@ postalar alacaksınız .
+# 1 bu sitenin # 2 açılır pencere açmasını engelledi .
+bağlı cihazlarınızdan # 1 sekme geldi
+Sitedeki eklentilere inceleme yazın . Eklenti geliştiricileri , çalışmalarının takdir edildiğini bilirlerse yeni eklentiler yazmaları ve eklentilerini iyileştirmeleri daha olasıdır .
+mevcut artırımlı Garbage Collection döngüsünün başa çıkamayacağı hızda tahsisler yapıldığı için tam , artırımsız bir Garbage Collection çalıştırıldı .
+tüm çökme raporları ( belirtilen zaman aralığındaki # 1 bekleyen çökme dahil )
+ana parola ile diğer parolalarınızı koruyabilirsiniz . ana parola oluşturmanız durumunda & brandShortName ; her oturumda kayıtlı bilgilere ulaşmak istediğinde size ana parolayı soracaktır .
+ürünün içerdiği web sitesi hizmetlerine genel bakış ve varsa devre dışı bırakma yönergeleri buraya eklenmelidir .
+document.write ( ) kullanılarak yazılan dengesiz bir araç , ağdan gelen verinin yeniden yorumlanmasına sebep oldu . daha fazla bilgi için : https : / / developer.mozilla.org
+bu sayfadaki bir betik meşgul veya artık yanıt vermiyor olabilir . İsterseniz betiği şimdi durdurabilir veya sürecin tamamlanmasını görmek için bekleyebilirsiniz .
+bir Worker hemen başlatılamadı çünkü aynı kökendeki diğer belgeler zaten maksimum işçi sayısını kullanıyor . Worker sıraya alındı ve diğer işçilerden bazılarının işi bittikten sonra başlatılacak .
+uyarı : bu eklenti doğrulanmamış . kötü amaçlı eklentiler kişisel bilgilerinizi çalabilir veya bilgisayarınızı tehlikeye atabilir . yalnızca kaynağına güveniyorsanız bu eklentiyi yükleyin .
+devam ederseniz risk size aittir . uyarı : bu site # 1 üzerinde doğrulanmamış # 2 eklenti yüklemek istiyor .
+sadece ne yaptığınızdan eminseniz devam etmelisiniz . bu gelişmiş ayarların değerlerini değiştirmek bu uygulamanın istikrarına , güvenliğine ve başarımına zarar verebilir .
+maalesef girdiğiniz adreste hiçbir şey bulamıyoruz . bir eklentiye giden bağlantıyı izlerseniz , eklentinin yazarı tarafından kaldırılmış olması mümkündür .
+Üzgünüz , sizin için hiç tavsiye bulamadık . < br > Size uygun eklentileri keşfetmek için lütfen < a href = " { 0 } " > eklenti sitemizi < / a > ziyaret edin .
+elementi oluşturarak yüklenmeyi hızlandırabilirsiniz . İhtiyacınız olan stil blokları şunlar :
+geçerli ifadeyi çalıştırır ve bir sonraki ifadede durur . geçerli ifade bir fonksiyon çağrısı ise hata ayıklayıcı tüm fonksiyonu çalıştırır ve fonksiyon çağrısından sonraki ifadede durur
+varsayılan bir arama motoru olması sadece onu kullanabileceğiniz anlamına gelmez . arama kutusundan Amazon veya Vikipedi gibi bir arama motoru veya site seçin .
+yalnızca listelenen eklentiler için geçerlidir . Etiketler kullanıcıların eklentinizi bulmalarına yardımcı olur ve sekmeler , araç çubuğu veya Twitter gibi kısa açıklamalar olmalıdır . en fazla { 0 } etiketiniz olabilir .
+bunun için her kullanıcı kendi profilini oluşturmalıdır . bu & brandShortName ; tarayıcısını başka kullanıcılarla ortak kullanıyorsanız her kullanıcının bilgilerini birbirinden ayrı tutmak için profilleri kullanabilirsiniz .
+bu özelliği devre dışı bırakmak istediğinizden emin misiniz ? kapsayıcı Sekmeler ' i şimdi devre dışı bırakırsanız # S kapsayıcı sekme kapatılacaktır .
+bu özelliği devre dışı bırakmak istediğinizden emin misiniz ? kapsayıcı Sekmeler ' i şimdi devre dışı bırakırsanız # S kapsayıcı sekme kapatılacaktır .
+Kapsayıcıyı silmek istediğinizden emin misiniz ? bu kapsayıcıyı şimdi silerseniz # S kapsayıcı sekmesi kapanacaktır .
+Kapsayıcıyı silmek istediğinizden emin misiniz ? bu kapsayıcıyı şimdi silerseniz # S kapsayıcı sekmesi kapanacaktır .
+ana parolanızı silerseniz bilgileriniz korunmaz .
+ana parolanızı sıfırlamak istediğinizden emin misiniz ? eğer ana parolanızı sıfırlarsanız , web ve e @-@ posta parolanız , form verileriniz , kişisel sertifikalarınız ve özel anahtarlarınız kaybolur .
+daveti kabul etmeniz size eklentiyi düzenleme erişimi verir ve adınızı web sitesindeki yazarlar listesinde gösterebilir .
+bu özet , eklentinizin ne yaptığını açık bir şekilde açıklamalıdır . listelerde ve aramalarda gösterilir ve inceleyiciler tarafından eklentinizi test etmek için kullanılacaktır .
+lütfen ana parolanızı unutmayacağınızdan emin olun . ana parolanızı unutursanız , ana parolayla korunan hiçbir bilgiye erişemezsiniz .
+belli bir komut ( arama dizgisi girildiyse ve tam eşleşme bulunduysa ) veya kullanılabilir komutlar ( arama dizgisi girilmediyse veya tam eşleşme bulunamadıysa ) hakkında yardım sunar .
+< P > Görüntülemeye çalıştığınız sayfa gösterilemiyor çünkü alınan verilerin gerçekliği doğrulanamadı . < / P > < ul > < li > Bu sorunu bildirmek için lütfen site sahipleriyle iletişime geçin . < / li > < / ul >
+maalesef aboneliğinizi iptal edemedik . Tıkladığınız bağlantı geçersiz . ancak < a href = " % ( Edit _ URL ) s " > profil sayfanızı düzenleyerek < / a > aboneliğinizi iptal edebilirsiniz .
+reklam engelleme ve gizlilik koruması . basit bir kurulumla reklamları ve internette nasıl izlendiğinizi kontrol altına alın .
+% S kaydedilemedi çünkü disk , klasör veya dosya yazma korumalı . \ n \ nDiskteki yazma korumasını kaldırıp yeniden denemeyi veya başka bir yere kaydetmeyi deneyin .
+% S kaydedilemedi çünkü o klasörün içeriğini değiştiremezsiniz . \ n \ nKlasör özelliklerini değiştirip yeniden deneyin ya da başka bir yere kaydetmeyi deneyin .
+programın kısayollarının oluşturulacağı Başlat menüsü klasörünü seçin . yeni bir klasöre oluşturmak isterseniz isim de girebilirsiniz .
+bazı & brandShortName ; özellikleri web tabanlı bilgi hizmetlerinden yararlanır , ancak bunların tamamen doğru ve hatasız olduklarını garanti edemeyiz . bu hizmetleri kullanan özelliklerin devre dışı bırakılmasıyla ilgili daha fazla bilgiyi
+Sync yer imlerinize , parolalarınıza ve hatta açık sekmelerinize tüm aygıtlarınızdan erişmenizi sağlar . Sync ayrıca ne tür bilgileri paylaşmak istediğinizi ve istemediğinizi kontrol etmenize olanak tanır .
+belgenin karakter kodlama tanımı , etkili olması için fazlasıyla geç bulundu . kodlama tanımını dosyanın ilk 1024 baytına taşımalısınız .
+HTML belgesinin karakter kodlaması belirtilmemiş . belge US @-@ ASCII kapsamı dışında karakterler içeriyorsa bazı tarayıcı yapılandırmalarında yazılar bozuk görünebilir . sayfanın karakter kodlaması belgede veya transfer protokolünde belirtilmelidir .
+bu sayfaya girdiğiniz bilgiler güvensiz bir bağlantı üzerinden gönderilecektir ve üçüncü bir kişi tarafından okunabilirler . \ n \ nBu bilgileri göndermek istediğinizden emin misiniz ?
+kodlama tanımını dosyanın ilk 1024 baytına taşımalısınız . HTML belgesinin karakter kodlama tanımı , dosyanın ilk 1024 baytının ön taraması yapılırken bulunamadığı için sayfa yeniden yüklendi .
+bakmak istediğiniz sayfa açılması güvenli olmayan bir dosya türünde kaydedilmiş olduğundan gösterilemiyor . lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin .
+bakmak istediğiniz sayfa açılması güvenli olmayan bir dosya türünde kaydedilmiş olduğundan gösterilemiyor . lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin .
+yükseltmeye izin veriyoruz ve hatta öneriyoruz ama bu işlemi geri alamazsınız . Kullanıcılarınız WebExtension ' ı yükledikten sonra eski nesil eklentiyi yükleyemezler .
+bu kişisel sertifika yüklenemez çünkü sertifika istendiğinde oluşturulan ilişkili özel anahtara sahip değilsiniz .
+bu site # 1 tarayıcınıza # 2 eklenti yüklemek istiyor :
+yalnızca listelenen eklentiler için geçerlidir . Eklentinizin indirme ve kullanım istatistiklerinin çevrimiçi görüntüleyicide görüntülenip görüntülenmeyeceği .
+yalnızca listelenen eklentiler için geçerlidir . Eklentinizin kaynak kodunun çevrimiçi görüntüleyicide görüntülenip görüntülenmeyeceği .
+başka pencerelerden gelen belgelerde document.load kullanımı yasaktır . sadece belgenin oluşturulduğu pencerede o belge için .load çağrılabilir . onun yerine tercihen XMLHttpRequest kullanınız .
+evet . Eklentinizi gönderirken bir gizlilik politikası belirleyebilirsiniz . Eklentiniz gönderildikten sonra da Geliştirici araçları panosunda bir gizlilik politikası ekleyebilir veya güncelleyebilirsiniz .
+Eklentinizin geçerli sürümünü silmek üzeresiniz . bu sürüm , eklentinizin genele açık tek sürümüyse eklenti durumunuz değişebilir veya listelemeniz artık herkese açık olarak görünmeyebilir .
+İnternete bağlı olduğunuzda bu bölümde denemeniz için en iyi ve en popüler eklentilerden bazıları öne çıkarılacak .
+devam etmek istediğinizden emin misiniz ? % S sekme açmak üzeresiniz . sayfalar yüklenirken % S yavaşlayabilir .
+kayıtlı bir ön değeriniz yok . bir isim seçip kaydederek filtre öndeğerlerini saklayabilirsiniz . ön değerler kolay erişilebilirdir ve onları kolayca tekrar kullanabilirsiniz .
+kaynak kodu göndermeniz gerekebilir . bunu yapmazsanız , eklentiniz siteden kaldırılabilir !
+Eklentileriniz ve özelleştirmeleriniz kaldırıldı , tarayıcı ayarlarınız varsayılan ayarlara döndürüldü . bu da sorununuzu çözmediyse
+& brandShortName ; güncel değil , fakat sisteminiz en son sürümü desteklemiyor . lütfen sisteminizi yükseltin ve tekrar deneyin . bu Bildirimi tekrar görmeyeceksiniz ancak konuyla ilgili
+< P > Görüntülemeye çalıştığınız sayfaü ağ protokolünde bir hata bulunduğundan gösterilemiyor . < / P > < ul > < li > Web sitesinin sahipleriyle iletişim kurarak bu sorunu bildirmeyi deneyebilirsiniz . < / li > < / ul >
+# 1 bu sitenin # 2 açılır pencere açmasını engelledi . Pencereyi görmek ister misiniz ?
+Eklentiniz arama sonuçlarına dahil edilmeyecek ve eklenti sayfasında eklentiyi devre dışı bıraktığınız belirtilecektir . bu durumda yeni sürüm gönderimleri kabul edilmeyecektir .
+teşekkürler ! bu sürüm incelenmek üzere gönderildi . İnceleme tamamlandığında veya inceleyicimizin herhangi bir sorusu olursa size bilgi vereceğiz .
+gizli taramada geçmişinizi ve çerezleri kaydetmiyoruz . Eklediğiniz yer imleri ve indirdiğiniz dosyalar yine de cihazınızda kayıtlı kalacaktır .
+İnceleme tamamlandığında bir e @-@ posta alacaksınız . o zamana kadar eklentiniz galerimizde listelenmez , ancak ayrıntılar sayfasından doğrudan erişilebilir .
+bakmak istediğiniz sayfa açılması güvenli olmayan bir dosya türünde kaydedilmiş olduğundan gösterilemiyor . lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin .
+diğer aygıtlardaki sekmelerinizi giriş sayfasındaki bir panele taşıdık . her yeni sekme açtığınızda onlara kolayca ulaşabilirsiniz .
+arkadaşınız katıldıktan sonra tıkladığınız her sekmeyi görebilecek .
+sizinle paylaştığı sayfayı görebilecek , yazılı ve görüntülü sohbet edebileceksiniz . { { clientSuperShortname } } tarayıcınıza kamera ve mikrofununuzu kullanma izni vermeyi unutmayın .
+gerekmiyorsa kişisel verilerinizi vermeyin . e @-@ posta adresinizi , ev adresinizi veya telefon numaranızı vermeniz istenirse " hayır " diyebilirsiniz .
+yapması gereken şeyler için eklentiyi eleştirmeyin . örneğin , reklam gösteren veya veri toplayan bir eklentinin çalışması için bunlara ihtiyaç varsa bunlarla ilgili olumsuz inceleme yazmayın .
+bilinen veri ihlallerinde kişisel verilerinizi izleyen { -product @-@ Name } hizmetine kaydolduğunuzdan bu yana bazı değişiklikler oldu . bu hizmeti Firefox hesaplarına bağlıyoruz .
+{ -brand @-@ Name } kullanıyorsanız veri ihlaline uğramış bir siteyi ziyaret ettiğinizde bildirim alacaksınız . İhlale dahil olup olmadığınızı ve ne yapabileceğinizi anında öğrenebilirsiniz .
+ele geçirilen bilgilerin dark web ' de gün yüzüne çıkması bazen aylar veya yıllar sürebilir . İhlaller keşfedildikten ve doğrulandıktan hemen sonra veritabanımıza eklenir .
+Hesaplarınızı parola yöneticisi gibi yalnızca sizin erişebileceğiniz güvenli bir yere kaydedin . bu aynı zamanda tüm farklı parolalarınızı izlemenizi de kolaylaştırır .
+< span > Bu ihlali gidermek için gereken adımları attıktan sonra < / span > onu " çözüldü " olarak işaretleyebilirsiniz . İhlal ile ilgili bilgilere panonuzdan istediğiniz zaman erişebilirsiniz .
+yeni hesaplara veya hizmetlere kaydolurken telefon numaranızı vermekten kaçının . telefon numarası gerekmiyorsa numarayı girmeyin .
+ekran görüntülerinizi daha kolay paylaşmak web ' e kaydedebilir veya bilgisayarınıza indirebilirsiniz . Kaydettiğiniz tüm görüntüleri bulmak için " ekran görüntülerim " düğmesine tıklayabilirsiniz .
+Firefox sürümümüz eskidiği için yavaş çalışıyor . ama endişelenmiş , daha yeni ve daha hızlı bir Firefox kullanımınıza hazır !
+havale yoluyla yapılan tüm bağışlardan Mozilla ' nın bankası tarafından 15 $ kesinti yapılır . havale yapacaksanız bunu göz önünde bulundurmanızı rica ederiz .
+% 1 $ S birçok popüler uygulamadaki takvim verilerinizi içe aktarabilir . Bilgisayarınızda aşağıdaki uygulamalara ait veriler bulundu . lütfen hangilerinden veri aktarmak istediğinizi seçin .
+Bilgisayarınızda aşağıdaki uygulamalara ait veriler bulundu . lütfen hangilerinden veri aktarmak istediğinizi seçin . & brandShortName ; birçok popüler uygulamadaki takvim verilerinizi içe aktarabilir .
+kullanıcı herhangi bir eklenti yazdıysa , eklentinin sahipliğini başka yazarlarla paylaşmadığı sürece bu eklentiler de silinir . başka yazarlar varsa kullanıcının yazarlığı kaldırılır ve kalan yazarlar eklentinin sahibi olmaya devam eder .
+herhangi bir eklenti yazdıysanız , eklentinin sahipliğini başka yazarlarla paylaşmadığınız sürece bu eklentiler de silinir . başka yazarlar varsa sizin yazarlığınız kaldırılır ve kalan yazarlar eklentinin sahibi olmaya devam eder .
+genelde çok sayıda açık sekmeyle çalışıyorsanız ihtiyacınız olanı arayıp bulmanın bazen zorlaştığını bilirsiniz . Eklentiler , sekme yönetimini kolaylaştırmak için yaratıcı çözümler sunabilir .
+% 1 $ S \ n % 2 $ S tarihine kadar # 3 kez geçerli .
+% 1 $ S \ n % 2 $ S itibarıyla % 3 $ S ile % 4 $ S arası \ n # 5 kez geçerli .
+Düzenleyene yanıt vermeden etkinliğin bir kopyasını takvime kaydet . katılımcı listesi temizlenecektir .
+sevdiğiniz eklentilerin incelemelerini yazın . Eklenti geliştiricileri , çalışmalarının takdir edildiğini bilirlerse yeni eklentiler oluşturmaları ve eklentilerini iyileştirmeleri daha olasıdır .
+alarmı # 1 aydan fazla erteleyemezsiniz .
+Takviminiz bilgisayarınızda yerel olarak depolanabilir veya bir sunucuya kaydedilebilir . böylece ona uzaktan erişebilir ve onu arkadaşlarınızla paylaşabilirsiniz .
+bu taslak kaydedildikten sonra bu makalenin daha yeni bir sürümü yayımlandı . İçeriğini görüntülemek için taslağı geri yükleyebilirsiniz , ancak yayımlanmak üzere gönderemezsiniz .
+bu taslak kaydedildiğinden beri bu makalenin daha yeni bir sürümü yayınlandı . İçeriği görüntülemek için taslağı geri yükleyebilirsiniz , ancak yayımlanmak üzere gönderemezsiniz .
+daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir . lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin .
+daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir . lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin .
+MDN hesabının avantajlarından yararlanmak için giriş yapın . henüz hesap açmadıysanız giriş yaptıktan sonra hesap açmanız istenir .
+Thunderbird ve SeaMonkey eklentileri artık addons.thunderbird.net adresinde listeleniyor . mevcut hesabınızı kullanarak eklentilerinizi yeni sitede güncelleyebilirsiniz .
+lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin . daha önce Mozilla ile ilgili bir bültene abone olmadıysanız aboneliğinizi onaylamanız gerekebilir .
+Aradığınız sayfa bulunamadı . kaldırılmış olabilir veya URL yanlış olabilir .
+bu etkinliğe kimin uygun olacağı konusunda epey düşündük . onları bulmaksa size düşüyor !
+daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir . lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin .
+en doğru tarayıcıyı seçmek , evinizi seçmeye çok benzer . Seçeneklerinizi incelemeli ve sizin için önemli olan şeylere göre araştırma yapıp karar vermelisiniz .
+İnternet herkes için var . bizce diliniz , internete erişmenize engel olmamalı . bu yüzden Firefox Browser " ı gönüllülerimizin de yardımıyla 90 " dan fazla dilde sunuyoruz .
+baştan aşağı yenilenen Firefox artık daha da hızlı , daha da güçlü . teknoloji harikası inovasyonlara kucak açan yeni CSS motorumuz fişek gibi çalışıyor .
+Yıldız simgesine tıklayarak yer imlerine kolayca ad verebilir , onları klasörlere ayırabilirsin . Sevdiğin bağlantılara ne zaman ulaşmak istersen yer imi araç çubuğunu açman yeterli .
+daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir . lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin .
+Geçmişinizi kaybetmeden önemini anlayamazsınız . Firefox Sync sayesinde gezinti geçmişiniz hep yanınızda olacak .
+Parolalarını cebinde taşıyabilirsin . Telefonundan Firefox Hesabına giriş yaparsan parolaların her yere seninle birlikte gelir . Telefonundan sitelere giriş yaparken hesap bilgilerin otomatik olarak belirir .
+Firefox Monitor , çevrimiçi veri ihlallerinde verileriniz çalındıysa sizi bilgilendirmekle kalmıyor , bunları çözmek için harekete geçmenizi de sağlıyor .
+bu hatayı kaydettik ve araştıracağız . ne yazık ki sunucumuzda bir hata oluştu ve isteğinizi tamamlayamadık .
+Üzgünüz , yazdığınız adreste bir şey bulamadık . bir eklenti bağlantısına tıkladıysanız o eklenti , geliştiricisi tarafından kaldırılmış olabilir .
+maalesef bu sayfaya erişmek için yetkiniz yok . oturum açmadıysanız , sayfanın üst kısmındaki bağlantıyı kullanarak oturum açmayı deneyin .
+Firefox , hakkınızda çok az veri toplar . e @-@ posta adresinizi bile istemeyiz . ancak Firefox hesabı açarsanız çevrimiçi yaşamınızda gizliliğinizi daha iyi koruyabiliriz .
+Firefox , hakkınızda çok az veri toplar . e @-@ posta adresinizi bile istemeyiz . ancak e @-@ posta adresinizle bir Firefox hesabı açarsanız çevrimiçi yaşamınızda gizliliğinizi daha iyi koruyabiliriz .
+biz ; dünyanın tüm insanlarını kapsayan ; kişinin demografik özelliklerine göre internet erişiminin , olanaklarının ve deneyim kalitesinin değişmediği bir interneti savunuyoruz .
+Reklamla ilgili iş ortaklarımızdan ; web sitelerinin ve yayıncıların ilk elden öğrenebildiği , kullandığınız tarayıcı ve cihaz gibi bilgileri kullanmasını istiyoruz .
+Belgelemizi herkese açık . böylece herkes söylediklerimizin doğruluğunu kontrol edebilir , neleri geliştirmemiz gerektiğini söyleyebilir ve hiçbir şey gizlemediğimizden emin olabilir .
+Aboneliğinizi onaylamak için Mozilla @ e.mozilla.org adresinden bir e @-@ posta alacaksanız . gelmezse spam filtrenizi kontrol edin . Bültenimizi alabilmek için aboneliğinizi onaylamalısınız .
+Aboneliğinizi onaylamak için Mozilla @ e.mozilla.org adresinden bir e @-@ posta alacaksanız . gelmezse spam filtrenizi kontrol edin . Bültenimizi alabilmek için aboneliğinizi onaylamalısınız .
+< a href = " { $ dsar } " > Veri öznesi erişim talepleri için buraya bakınız . < / a >
+sayfa içeriğinde kullanıcı tarafından görülemeyen veya takibi zor değişiklikler yapan eklentiler
+İnternette özgürce dolaşın . { -brand @-@ Name @-@ Firefox } gizliliğinizi kendiliğinden korur .
+web harika ama vahşi bir yer . kişisel verileriniz izniniz olmadan kullanılabilir , yaptıklarınız izlenebilir ve parolalarınız çalınabilir . neyse ki çevrimiçi gizliliğinizi ve güvenliğinizi artıran eklentiler var .
+en doğru tarayıcıyı seçmek , evinizi seçmeye çok benzer . Seçeneklerinizi incelemeli ve sizin için önemli olan şeylere göre araştırma yapıp karar vermelisiniz .
+günümüzün web siteleri , süreli karşınıza çıkan ve gezintinizi yavaşlatan , istenmeyen reklamlarla dolu . İnternette rahatça gezinmeniz için reklam engelleme eklentileri bu reklamları engelleyebilir veya filtreleyebilir .
+İnternet herkes için var . bizce diliniz , internete erişmenize engel olmamalı . bu yüzden { -brand @-@ Name @-@ Firefox @-@ browser } nı gönüllülerimizin de yardımıyla 90 " dan fazla dilde sunuyoruz .
+Yıldız simgesine tıklayarak yer imlerine kolayca ad verebilir , onları klasörlere ayırabilirsin . Sevdiğin bağlantılara ne zaman ulaşmak istersen yer imi araç çubuğunu açman yeterli .
+ruh halinize veya tercihinize göre açık moddan koyu moda geçebilir , isterseniz özel temalarla tarayıcınızı renklendirebilirsiniz .
+lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin . daha önce bir { -brand @-@ Name @-@ Mozilla } bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir .
+e @-@ posta adresinizi bile istemeyiz . { -brand @-@ Name @-@ Firefox } , hakkınızda çok az veri toplar . ancak { -brand @-@ Name @-@ Firefox } hesabı açarsanız çevrimiçi yaşamınızda gizliliğinizi daha iyi koruyabiliriz .
+biz ; dünyanın tüm insanlarını kapsayan ; kişinin demografik özelliklerine göre internet erişiminin , olanaklarının ve deneyim kalitesinin değişmediği bir interneti savunuyoruz .
+Reklamla ilgili iş ortaklarımızdan ; web sitelerinin ve yayıncıların ilk elden öğrenebildiği , kullandığınız tarayıcı ve cihaz gibi bilgileri kullanmasını istiyoruz .
+Belgelemizi herkese açık . böylece herkes söylediklerimizin doğruluğunu kontrol edebilir , neleri geliştirmemiz gerektiğini söyleyebilir ve hiçbir şey gizlemediğimizden emin olabilir .
+{ -brand @-@ Name @-@ Mozilla } " ya katkıda bulunduğunuzda , internetin iyilik için kullanılması gereken bir güç olduğuna inanan , dünyanın her yanına yayılan bir camiaya katılmış oluyorsunuz .
+Sbone olduğunuz diğer bültenleri ve hesabınızla ilgili önemli güncellemeleri devam edeceksiniz . tüm aboneliklerinizi yönetmek için aşağıya e @-@ postanızı yazabilirsiniz . önce doğru kişi olduğunuzdan emin olmalıyız .
+Çevirinizden menunsanız Enter ' a basarak veya araç çubuğundaki kaydet simgesine tıklayarak kaydedebilirsiniz . değişiklikleri kaydetmeden çeviri modundan çıkmak isterseniz ESC tuşuna basın veya araç çubuğundaki iptal simgesine tıklayın .
+fare imlecinizi başlıkların , bağlantıların , paragrafların ve diğer yazıların üstüne sürükleyin . yazıların etrafında kesik çizgili bir dikdörtgen belirerek sayfa üzerinde çevirebileceğiniz kısımları işaretleyecektir .
+düzenleme moduna girdiğinizde tüm yazı seçilecek . çeviri yaparken asıl yazıyı görebilir , çeviri için ne kadar karakter daha yazabileceğinizi görebilirsiniz .
+evet , eklenti geliştiricileri her incelemeye tek bir yanıt verebilir . tartışmayı veya yazışmayı sürdürmek isterseniz % ( startLink ) sforumumuzda % ( endLink ) s bir tartışma konusu oluşturabilirsiniz .
+% ( sitename ) s hesabınız için parola sıfırlama talebi aldık . bu parolayı değiştirmek için lütfen aşağıdaki linke tıklayın veya linki tarayıcınızın konum çubuğuna yapıştırın :
+% ( sitename ) s hesabınız için parola sıfırlama talebi aldık . bu parolayı değiştirmek için lütfen aşağıdaki linke tıklayın veya linki tarayıcınızın konum çubuğuna yapıştırın :
+oturum açmadan önce e @-@ posta adresinizi doğrulamalısınız . size doğrulama bağlantısı içeren bir e @-@ posta gönderdik . başlamak için bağlantıya tıklamanız yeterli !
+oturum açmadan önce e @-@ posta adresinizi doğrulamalısınız . size doğrulama bağlantısı içeren bir e @-@ posta gönderdik . başlamak için bağlantıya tıklamanız yeterli !
+İzlediğiniz öğelerin listesi aşağıdadır . İşaretli öğeler şu anda izlediğiniz öğelerdir . İşaretlenmemiş öğeler artık izlenmemektedir .
+tanım : L10n kapsamı , ziyaretçilerimizin kendi dilindeki BB makalelerine ulaşma yüzdesidir . İlk 50 İngilizce makalenin ağırlığı , bir makalenin çeviri durumu ve her dil için ziyaret sayısı dikkate alınarak hesaplanır .
+tanım : L10n kapsamı , ziyaretçilerimizin kendi dilindeki BB makalelerine ulaşma yüzdesidir . İlk 50 İngilizce makalenin ağırlığı , bir makalenin çeviri durumu ve her dil için ziyaret sayısı dikkate alınarak hesaplanır .
+üst düzey web geliştiricilerinden " Firefox ' u nası kurarım ? " diyen yeni kullanıcılara kadar herkes forumda yardımınızı bekliyor ! İnsanları doğru yardım makalelerine yönlendirerek ve sorularına yanıt vererek bilginizi paylaşın .
+üst düzey web geliştiricilerinden " Firefox ' u nası kurarım ? " diyen yeni kullanıcılara kadar herkes forumda yardımınızı bekliyor ! İnsanları doğru yardım makalelerine yönlendirerek ve sorularına yanıt vererek bilginizi paylaşın .
+ürün ve hizmetlerimizi size sunmak için bilgilerinizi aşağıdaki iş ortaklarımızla paylaşıyoruz . bu kuruluşlar sözleşme gereği verilerinizi Mozilla ' nın onayladığı şekillerde işlemekle yükümlüdür .
+eski bir adres yer imlerinize eklemiş gibi görünüyorsunuz . bu sayfanın yeni adresi aşağıdadır . yer iminizi güncellemelisiniz . 10 saniye içinde yeni adrese yönlendirileceksiniz .
+eski bir adres yer imlerinize eklemiş gibi görünüyorsunuz . bu sayfanın yeni adresi aşağıdadır . yer iminizi güncellemelisiniz . 10 saniye içinde yeni adrese yönlendirileceksiniz .
+New Contributors forumunda yeni bir başlık açarak kendinizi tanıtın . Adınızı konu başlığına koyarak bize biraz kendinizden bahsedin :
+kullanıcı adınızı herkes görebilir . Kullanıcınız adınız benzersiz ve 150 karakterden kısa olmalıdır . kullanıcı adınız yalnızca Harf , rakam ve @ / . / + / - / _ karakterlerini içerebilir .
+Yukarıdakilerden hangisine ilgi duyduğunuzu bilelim ve başlamanıza yardım edelim . sizi aramızda görmek çok güzel olacak !
+Yukarıdakilerden hangisine ilgi duyduğunuzu bilelim ve başlamanıza yardım edelim . sizi aramızda görmek çok güzel olacak !
+şimdi ikisini bir araya getirip Firefox kullanıcılarına Twitter ' da yardım edebilirsiniz . hızlı , basit ve teknoloji ustası olmanız da gerekmiyor . bu gönüllülerimize Şahaneler Ordusu diyoruz .
+şimdi ikisini bir araya getirip Firefox kullanıcılarına Twitter ' da yardım edebilirsiniz . hızlı , basit ve teknoloji ustası olmanız da gerekmiyor . bu gönüllülerimize Şahaneler Ordusu diyoruz .
+tüm ürünler için bu bildirimlere abone olduğunuzu lütfen unutmayın . belli ürünlerle ilgileniyorsanız , lütfen o ürünün kontrol paneline gidin .
+Şablonlar BB makalelerindeki içerik parçalarını yeniden kullanmanızı sağlar . tek bir yerde yönergelerinizi oluşturup güncelleyebilir , ardından diğer sayfalardan buraya referans verebilirsiniz .
+Yardımınız için teşekkürler ! Hatırlatalım ki Firefox OS henüz dilinizde henüz mevcut değil ve bu makalenin daha önce değişmesi mümkündür .
+sumo Şahaneler Ordusu 2010 mini Rozeti , sumo serisinin bir parçasıdır . 2010 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2010 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2010 mini Rozeti , sumo serisinin bir parçasıdır . 2010 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2010 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2010 mini Rozeti , sumo serisinin bir parçasıdır . 2010 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2010 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2011 mini Rozeti , sumo serisinin bir parçasıdır . 2011 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2011 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2011 mini Rozeti , sumo serisinin bir parçasıdır . 2011 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2011 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2011 mini Rozeti , sumo serisinin bir parçasıdır . 2011 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2011 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2012 mini Rozeti , sumo serisinin bir parçasıdır . 2012 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2012 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2012 mini Rozeti , sumo serisinin bir parçasıdır . 2012 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2012 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2012 mini Rozeti , sumo serisinin bir parçasıdır . 2012 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2012 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2013 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2013 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2013 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2014 mini Rozeti , sumo serisinin bir parçasıdır . 2014 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2014 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Şahaneler Ordusu 2014 mini Rozeti , sumo serisinin bir parçasıdır . 2014 yılında 50 adet şahane Ordusu tweet ' i yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Şahaneler Ordusu 2014 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Forumu 2012 mini Rozeti , sumo serisinin bir parçasıdır . Mozilla misyonunu ileri götürdüğünü sumo Forumu 2012 rozetiyle kanıtlayan herkesi tebrik ederiz ! 2012 yılında Türkçe sumo Forumu ' nda 30 yanıt yazdığınızı gösterir .
+sumo Forumu 2012 mini Rozeti , sumo serisinin bir parçasıdır . Mozilla misyonunu ileri götürdüğünü sumo Forumu 2012 rozetiyle kanıtlayan herkesi tebrik ederiz ! 2012 yılında Türkçe sumo Forumu ' nda 30 yanıt yazdığınızı gösterir .
+sumo Forumu 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında Türkçe sumo Forumu ' nda 30 yanıt yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Forumu 2013 rozetiyle kanıtlayan herkesi tebrik ederiz
+sumo Forumu 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında Türkçe sumo Forumu ' nda 30 yanıt yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Forumu 2013 rozetiyle kanıtlayan herkesi tebrik ederiz
+sumo Forumu 2014 mini Rozeti , sumo serisinin bir parçasıdır . 2014 yılında Türkçe sumo Forumu ' nda 30 yanıt yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Forumu 2014 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo Forumu 2014 mini Rozeti , sumo serisinin bir parçasıdır . 2014 yılında Türkçe sumo Forumu ' nda 30 yanıt yazdığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo Forumu 2014 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2010 mini Rozeti , sumo serisinin bir parçasıdır . 2010 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2010 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2010 mini Rozeti , sumo serisinin bir parçasıdır . 2010 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2010 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2010 mini Rozeti , sumo serisinin bir parçasıdır . 2010 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2010 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2011 mini Rozeti , sumo serisinin bir parçasıdır . 2011 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2011 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2011 mini Rozeti , sumo serisinin bir parçasıdır . 2011 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2011 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2011 mini Rozeti , sumo serisinin bir parçasıdır . 2011 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2011 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2012 mini Rozeti , sumo serisinin bir parçasıdır . 2012 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2012 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2012 mini Rozeti , sumo serisinin bir parçasıdır . 2012 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2012 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2012 mini Rozeti , sumo serisinin bir parçasıdır . 2012 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2012 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2013 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2013 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo BB 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2013 rozetiyle kanıtlayan herkesi tebrik ederiz !
+2014 yılında Türkçe sumo Bilgi Bankası ' nda onaylanmış 10 düzenleme yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo BB 2014 rozetiyle kanıtlayan herkesi tebrik ederiz ! sumo BB 2014 mini Rozeti , sumo serisinin bir parçasıdır .
+sumo yerelleştirmesi 2010 mini Rozeti , sumo serisinin bir parçasıdır . 2010 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2010 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2010 mini Rozeti , sumo serisinin bir parçasıdır . 2010 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2010 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2010 mini Rozeti , sumo serisinin bir parçasıdır . 2010 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2010 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2011 mini Rozeti , sumo serisinin bir parçasıdır . 2011 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2011 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2011 mini Rozeti , sumo serisinin bir parçasıdır . 2011 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2011 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2011 mini Rozeti , sumo serisinin bir parçasıdır . 2011 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2011 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2012 mini Rozeti , sumo serisinin bir parçasıdır . 2012 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2012 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2012 mini Rozeti , sumo serisinin bir parçasıdır . 2012 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2012 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2012 mini Rozeti , sumo serisinin bir parçasıdır . 2012 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2012 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2013 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2013 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2013 mini Rozeti , sumo serisinin bir parçasıdır . 2013 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2013 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2014 mini Rozeti , sumo serisinin bir parçasıdır . 2014 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2014 rozetiyle kanıtlayan herkesi tebrik ederiz !
+sumo yerelleştirmesi 2014 mini Rozeti , sumo serisinin bir parçasıdır . 2014 yılında sumo Bilgi Bankası ' nda onaylanmış 10 çeviri düzeltmesi yaptığınızı gösterir . Mozilla misyonunu ileri götürdüğünü sumo yerelleştirmesi 2014 rozetiyle kanıtlayan herkesi tebrik ederiz !
+Süpersiniz ! Değişiklikleriniz kabul edilirse size e @-@ posta ile bildireceğiz . tartışma sekmesine tıklayarak bu makaleyle ilgili tartışmayı izleyebilirsiniz .
+Süpersiniz ! Değişiklikleriniz kabul edilirse size e @-@ posta ile bildireceğiz . tartışma sekmesine tıklayarak bu makaleyle ilgili tartışmayı izleyebilirsiniz .
+şu anda masaüstü veya dizüstü bilgisayarınızda , evde veya iş yerinizde hangi tarayıcıları kullanıyorsunuz ?
+Chrome kullandığınızı da söylemiştiniz . Firefox ile gezinirken yabancı dilde bir sayfayla karşılaştığınızda o sayfayı kendi dilinizde görüntülemek için Chrome ' a geçme eğiliminiz nedir ?
+{ -send @-@ brand } ile dosyalarınızı uçtan uca şifreleme ve otomatik olarak silinen bir bağlantıyla paylaşın . böylece özel dosyalarınız güvenle saklanır , bir süre sonra kendi kendine silinir .
+web sayfasını daha rahat görmek için kenar çubuğunu daraltın . Farenizi pencerenin kenarına götürerek sekmelerinizi hemen görebilirsiniz .
+Şifrelenmiş dosyanızın eşsiz bağlantısını ( şifreleme anahtarını ) paylaştığınız herkes o dosyayı indirebilir ve dosyaya erişebilir . Şifrelenmiş dosyanıza erişmesini istemediğiniz hiç kimseyle bağlantıyı paylaşmamalısınız .
+daha önce Mozilla ile ilgili bir bültene aboneliğinizi onaylamadıysanız şimdi onaylamanız gerekebilir . lütfen gelen kutunuzu veya spam filtrenizi kontrol edin .
+özelliğe eriştiğinizde tarayıcı pencerenizin genişliği ve açık olan sekme sayısı gibi tarayıcı ortamınıza dair bilgiler .
+bu özelliğe nasıl eriştiğiniz , hangi düğmelere tıkladığınız ve eklentiyi ne sıklıkta kullandığınız gibi eklentiyle etkileşimlerinize dair bilgiler .
+Notes , tarayıcınızın kenar çubuğuna basit , tek sayfalık bir not defteri ekliyor . başlangıçta birkaç basit biçimlendirme seçeneği ekledik . başka hangi özellikleri istediğinizi bize bildirmeyi unutmayın .
+Notes ayrıca bu özelliğe nasıl eriştiğiniz ve hangi düğmelere tıkladığınız gibi etkileşim bilgilerinizi de toplar .
+bu deney yakında sona eriyor . deneyi etkinleştirseniz şimdilik kullanmaya devam edebilirsiniz . yeni sürümü çıktığında o sürüme geçmenize yardımcı olacağız .
+önerilerin doğruluğunu artırmamıza yardımcı olmaları amacıyla , gönderilen ses kayıtlarını ve ilgili öneri bilgilerini saklayabiliriz . bu amaçla saklanan ses kayıtları hiçbir kişisel bilgi ile ilişkilendirilmez .
+ayrıca oynatılabilir videolarla kaç kez karşılaştığınız , videoyu kaç kez oynattığınız ve videoyu sağlayan video servisi bilgilerini de topluyoruz . bu sayede kullanıcılarımızın deneyi ne kadar kullanışlı bulduklarını anlayabiliyoruz .
+Beğendiğin bir Thimble projesi mi var ? onu remiksleyerek üzerinde değişiklik yapabilirsin . ayrıca projeni arkadaşlarına veya öğrencilerine göndererek onların da değişikli yapmalarını isteyebilirsin .
+Firefox artık hesabınızla eşitlenmeyecek ama bu cihazdaki gezinti geçmişiniz silinmeyecek .
+Projendeki dosyaların toplam boyutu , kullanılabilen en fazla alanı aştı . yer açmak için bazı dosyaları silmezsen yeni dosya ekleyemezsin .
+koduna ekleyebileceğin HTML , CSS ve Javascript kod parçalarının listesini oluşturarak daha hızlı çalışabilirsin .
+sadece tek bir tıklamayla projelerini web ' de yayınlayabilirsin . düzenleme yaptıktan sonra , projeni kolaylıkla güncelleyebilirsin .
+galiba projenin yüklenmesi uzun sürüyor . < br / > Yüklenmezse yeniden denemek için lütfen sayfayı tazele .
+ürünün içerdiği web sitesi hizmetlerine genel bakış ve varsa devre dışı bırakma yönergeleri buraya eklenmelidir .
+hesap sihirbazından çıkmak istediğinizden emin misiniz ? \ n \ nÇıkarsanız , girmiş olduğunuz tüm bilgiler kaybolacak ve hesabınız oluşturulmayacaktır .
+< b > Önemli ! < / b > Gizli anahtar yedekleme parolanızı unutursanız bu yedeği geri yükleyemezsiniz . lütfen parolayı güvenli bir yere kaydedin .
+uyarı : bu eklenti doğrulanmamış . kötü amaçlı eklentiler kişisel bilgilerinizi çalabilir veya bilgisayarınızı tehlikeye atabilir . yalnızca kaynağına güveniyorsanız bu eklentiyi yükleyin .
+hangi anahtarların kişisel anahtarlarınınız olarak kullanılacağını onaylayın . yalnızca kendi oluşturduğunuz ve kendi kimliğinizi gösteren anahtarları kişisel anahtar olarak kullanmalısınız . bu seçeneği daha sonra Anahtar Özellikleri iletişim kutusundan değiştirebilirsiniz .
+bu dizinin silinmesi geri alınamaz ve içerdiği iletileri ve alt klasörleri silinir . ' % S ' dizinini silmek istediğinizden emin misiniz ?
+bu anahtarın hem ortak hem gizli parçasına sahipsiniz . anahtarı Kişisel anahtar olarak kullanabilirsiniz . ama bu anahtarı size başka birisi verdiyse kişisel anahtar olarak kullanmayın .
+resim belgenin içeriğiyle ilgiliyse , metin tabanlı tarayıcılarda veya resim yüklenirken diğer tarayıcılarda görünecek alternatif bir metin sağlamalısınız .
+resim belgenin içeriğiyle ilgiliyse , metin tabanlı tarayıcılarda veya resim yüklenirken diğer tarayıcılarda görünecek alternatif bir metin sağlamalısınız .
+çeşitli sağlayıcılarla ortaklık kuran & brandShortName ; size yeni bir e @-@ posta hesabı önerebilir . başlamak için yukarıdaki alana adınızı ve soyadınızı veya istediğiniz diğer kelimeleri yazmanız yeterli .
+kişisel anahtar olarak işaretlenen anahtarlar uçtan Uca Şifreleme bölümünde listelenir . diğerlerine ise Anahtar Yöneticisi ' nden ulaşabilirsiniz .
+{ $ Name } sizinle olan şifrelenmiş bağlantısını kapattı . yanlışlıkla şifrelememiş mesaj göndermenizi önlemek için mesajınız gönderilmedi . lütfen şifrelenmiş görüşmeyi sonlandırın veya yeniden başlatın .
+not : bu alındı onayı , yalnızca iletinin alıcının bilgisayarında görüntülendiğini gösterir . alıcının ileti içeriğini okuduğunun veya anladığının garantisi yoktur .
+adres defteri dosyalarınızdan biri ( % 1 $ S ) okunamadı . yeni % 2 $ S dosyası oluşturulacak ve eski dosyanın yedeği % 3 $ S adıyla aynı dizine kaydedilecek .
+{ 0 } adresinize hesabınızı doğrulamak için bir e @-@ posta gönderildi . oturum açmadan önce e @-@ postanıza gelen bağlantıya tıklayarak hesabınızı etkinleştirmeniz gerekmektedir .
+seçili # 1 alt dizinin cevapları gösterilmeyecek .
+seçili # 1 dizinin cevapları gösterilmeyecek .
+% S varsayılan posta uygulaması olarak ayarlanamıyor çünkü kayıt anahtarı güncellenemiyor . kayıt defterine yazma hakkınız olup olmadığını sistem yöneticinize sorup tekrar deneyin .
+kayıt defterine yazma hakkınız olup olmadığını sistem yöneticinize sorup tekrar deneyin . % S varsayılan haber uygulaması olarak ayarlanamıyor çünkü kayıt anahtarı güncellenemiyor .
+programın kısayollarının oluşturulacağı Başlat menüsü klasörünü seçin . yeni bir klasör açmak için isim de girebilirsiniz .
+üst düzey gizlilik sağlayan Focus ücretsiz ve her zaman yanınızda . çünkü arkasında , web ' deki haklarınız için kâr amacı gütmeden savaşan Mozilla var .
+üst düzey gizlilik sağlayan Focus ücretsiz ve her zaman yanınızda . çünkü arkasında , web ' deki haklarınız için kâr amacı gütmeden savaşan Mozilla var .
+İleti imzasında kullanılan sertifika iptal olmuş . İletinin içeriğini bizzat gönderene sormadan bu iletinin doğruluğuna güvenmemelisiniz .
+İletinin içeriğini bizzat gönderene sormadan bu iletinin doğruluğuna güvenmemelisiniz . İletiyi imzalamada kullanılan sertifika , kendi sertifikası iptal olan bir makam tarafından sağlanmış .
+gösterilen ileti sayısal imzalı , ancak tüm ekleri henüz indirilmedi . bu yüzden imza doğrulanamadı . İletinin tamamını indirerek imzayı doğrulamak için Tamam ' a tıklayın .
+İletiyi kimin imzalandığını öğrenmek için lütfen imza sertifikası ayrıntılarına bakın . İmzalayanın sertifikasında bulunan e @-@ posta adresi , bu iletinin gönderildiği e @-@ posta adresinden farklı .
+Dizine yazılamadığı için ' % S ' dizini sıkıştırılamadı . yeterli disk alanı bulunduğunu veya dosya sistemine yazma izniniz olduğunu kontrol ettikten sonra yeniden deneyin .
+' % S ' dizini bulunamadığı için dizinle ilişkili süzgeçler devre dışı bırakılacak . dizinin mevcut olduğunu ve süzgeçlerin geçerli bir hedef dizine işaret ettiğini kontrol edin .
+İleti silinmiştir . gönderdiğiniz kişi iletiyi görmüş veya görmemiş olabilir . okumak üzere daha sonra silmeyi geri alabilir .
+' % S ' dizinindeki iletiler süzülemez çünkü ileti eklenirken bir hata oluştu . dizinin düzgün görüntülendiğini doğrulayın veya dizin özelliklerinden onarmayı deneyin .
+İletiler ' % S ' dizinine süzülemedi çünkü dizine yazılamadı . yeterli disk alanına ve dosya sistemine yazma iznine sahip olduğunuzu kontrol edip tekrar deneyin .
+bu ileti ; alıcı tarafından görülmeden yazdırıldı , fakslandı veya iletildi . alıcının bu iletiyi daha sonra okuyacağının garantisi yoktur .
+İletinin içeriğini bizzat gönderene sormadan bu iletinin doğruluğuna güvenmemelisiniz . İmza , ileti içeriğiyle doğru şekilde eşleşmiyor . gönderen tarafından imzalandıktan sonra ileti değiştirilmiş olabilir .
+İleti gönderilmedi . Sunucunun yanıtı : % s . göndermeyi denediğiniz iletinin boyutu , sunucunun geçici boyut sınırını aşıyor . İleti boyutunu azaltmayı deneyin veya bir süre bekleyip yeniden deneyin .
+İleti gönderilmedi . göndermeyi denediğiniz iletinin boyutu sunucunun genel boyut sınırını ( % d bayt ) aşıyor . İleti boyutunu azaltıp yeniden deneyin .
+İleti gönderilmedi . Sunucunun yanıtı : % s . İleti boyutunu azaltıp yeniden deneyin . göndermeyi denediğiniz iletinin boyutu sunucunun genel boyut sınırını aşıyor .
+bu ileti bir dijital imza içeriyor ama imzanın doğru olup olmadığı belirsiz . İmzayı doğrulamak için gönderenin ortak anahtarını edinmeniz gerekir .
+bu ileti gönderilmeden önce şifrelenmedi . internet üzerinden gönderilen şifrelenmemiş bilgiler başkaları tarafından görülebilir .
+OTR görüşmelerinde kimliğinizin doğrulanabilmesi için , OTR parmak izinizi farklı bir iletişim kanalı üzerinden paylaşın .
+< ul > < li > Görüntülemeye çalıştığınız sayfa , alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor . < / li > < li > Lütfen site sahipleriyle iletişime geçip onları bu sorundan haberdar edin . < / li > < / ul >
+IMAP sunucunuza bağlanılamadı . bu sunucuya maksimum bağlantı sayısını aşmış olabilirsiniz . öyleyse önbellekteki bağlantı sayısını azaltmak için Gelişmiş IMAP sunucu Ayarları iletişim kutusunu kullanın .
+% S dizini açılamıyor çünkü diğer işlemler tarafından kullanımda . lütfen işlemin bitmesini bekleyin ve dizini tekrar seçin .
+aşağıdaki alıcıların anahtarlarında sorun olduğu için bu ileti uçtan uca şifrelemeyle gönderilemedi : { $ problem }
+soldaki adres defteri alanlarını sağdaki içe alınacak verilerle eşleştirmek için Yukarı ve Aşağı düğmelerini kullanın . İçe almak istemediğiniz ögelerin işaretini kaldırın .
+zaman zaman tişörtler ve başka hediyeler yolluyoruz . kardeşler ' in ileriki sürümlerinde ödül programımız ve kardeşlik yarışmalarına yönelik başka imkanlar da olacaktır .
+Kimliklerinizi yönetirken bu listeden bir sunucuyu kullanmak için onu Giden sunucusu ( SMTP ) olarak seçebilir veya & quot ; varsayılan sunucuyu kullan & quot ; ı seçerek bu listedeki varsayılan sunucuyu kullanabilirsiniz .
+uçtan uca şifreleme gerektiğinde , bire bir görüşmelerdeki iletiler şifrelenmedikleri sürece gönderilmez . alınan şifrelenmemiş iletiler normal görüşmenin bir parçası olarak gösterilmez ve günlüğe kaydedilmez .
+hangi sitelerin çerez bırakabileceğini veya bırakamayacağını belirleyebilirsiniz . yönetmek istediğiniz sitenin tam adresini girdikten sonra engelle , Oturum Boyunca İzin ver veya İzin ver düğmesine tıklayın .
+bu süzgeç uygulandığında en az bir olay seçmelisiniz . Süzgecin geçici olarak hiçbir olayda çalışmasını istemiyorsanız , İleti Süzgeçleri penceresinden devre dışı bırakın .
+Dosyanız bağlanıyor . İşlem tamamlandığında ileti gövdesinde görünecek . ; Dosyalarınız bağlanıyor . İşlem tamamlandığında ileti gövdesinde görünecekler .
+Süzgeçleriniz çalışmıyor çünkü süzgeçlerinizi içeren msgFilterRules.dat dosyası okunamadı . yeni bir rules.dat dosyası oluşturalacak ve eski dosyanızın yedeği rulesbackup.dat adıyla aynı dizine kopyalanacak .
+İletiniz önemli bilgi kaybı olmaksızın düz metne çevrilebilir . ancak düz metin sürümü , düzenleyicide gördüğünüzden farklı görünebilir .
+size gönderilen iletilerin şifrelenmesinde ve çözülmesinde aynı sertifikayı kullanmak ister misiniz ? başkalarının size şifrelenmiş ileti gönderebilmek için kullanacakları bir sertifika belirtmeniz gereklidir .
+Thunderbird " ün en yeni özelliklerini ilk deneyenlerden biri olun . görüşlerinizi bizimle paylaşarak son sürümde yer alacak özellikleri iyileştirmemize yardımcı olabilirsiniz .
+yeni tercihler sekmesi , pencereler arasında geçiş yaparken tercihlerinizini gözden kaçırmamayı sağlar .
+Aradığınız sayfa mevcut değil . bunun bir hata olduğunu düşünüyorsanız < a href = " % ( bug _ Report _ URL ) s " > hata bildiriminde bulunabilirsiniz < / a > .
+bu sürümde başka güncellemeler de var . tümünü < a href = " % ( release ) s " > Thunderbird 68 sürüm notlarında < / a > görebilirsiniz .
+bu makalede , Thunderbird 68.0 sürümündeki bazı önemli değişiklikler açıklanmaktadır . değişikliklerin tüm ayrıntılarını < a href = " % ( release ) s " > Thunderbird 68 sürüm notlarında < / a > bulabilirsiniz .
+bu makalede Thunderbird 78 sürümündeki bazı önemli değişiklikler açıklanmaktadır . değişikliklerin tüm ayrıntılarını < a href = " % ( release ) s " > Thunderbird 78.0 sürüm notlarında < / a > bulabilirsiniz .
+yalnızca listelenen eklentiler için geçerlidir . Eklentinizin temel işlevselliğinin , arama ve göz atma listelerinde ve ayrıca eklentinizin ayrıntılar sayfasının üst kısmında görüntülenen kısa bir açıklaması .
+okuyucular bir sayfanın yerleşimini incelerken okunabilir içerik dikkat dağıtabilir .
+kayıt Mezarlığı , Common Voice veri kümesine girmeyen ses kayıtlarından oluşur . veri kümesi gibi Kayıt Mezarlığı da indirilebilir .
+ses doğaldır , insanidir . bu yüzden Makinelerimiz için kullanılabilir ses teknolojileri üretmekle ilgileniyoruz . ama ses sistemleri yaratmak için çok büyük miktarlarda ses verisine ihtiyaç var .
+ses doğaldır , insanidir . bu yüzden Makinelerimiz için kullanılabilir ses teknolojileri üretmekle ilgileniyoruz . ama ses sistemleri yaratmak için çok büyük miktarlarda ses verisine ihtiyaç var .
+ses kayıtlarınızı veri kümelerinden kaldırma isteğinizi inceleyeceğiz . İsteğiniz onaylanırsa , veri kümesini indirenlerle iletişim kuracak ve ses kayıtlarınızı kaldırmalarını isteyeceğiz .
+Anonim ses kayıtlarınız Common Voice veri kümesinde kalacaktır . Profilinizi sildikten sonra kayıtlarınızı veri kümesinden kaldırma talebinde bulunamazsınız .
+Facebook ile oturum açarsanız Facebook bu sitede Yaptıklarınızı takip edebilir . Facebook bu sayede internetteki yaşamınıza dair daha fazla bilgi sahibi olabilir .
+Telefonunuzu bulamıyorsanız onu kalıcı olarak silebilirsiniz ama unutmayın ki bu işlem geri alınamaz .
+haritada yakınınızda görünüyorsa , telefon sessize alınmış olsa bile ses çalmasını sağlayabilirsiniz .
+mevcut artırımlı Garbage Collection döngüsünün başa çıkamayacağı hızda tahsisler yapıldığı için tam , artırımsız bir Garbage Collection çalıştırıldı .
+ana parola ile diğer parolalarınızı koruyabilirsiniz . ana parola oluşturmanız durumunda { -brand @-@ Short @-@ Name } her oturumda kayıtlı bilgilere ulaşmak istediğinde size ana parolayı soracaktır .
+ürünün içerdiği web sitesi hizmetlerine genel bakış ve varsa devre dışı bırakma yönergeleri buraya eklenmelidir .
+document.write ( ) kullanılarak yazılan dengesiz bir araç , ağdan gelen verinin yeniden yorumlanmasına sebep oldu . daha fazla bilgi için : https : / / developer.mozilla.org
+bu sayfadaki bir betik meşgul veya artık yanıt vermiyor olabilir . İsterseniz betiği şimdi durdurabilir veya sürecin tamamlanmasını görmek için bekleyebilirsiniz .
+bir Worker hemen başlatılamadı çünkü aynı kökendeki diğer belgeler zaten maksimum işçi sayısını kullanıyor . Worker sıraya alındı ve diğer işçilerden bazılarının işi bittikten sonra başlatılacak .
+Eklentiniz deneyselse veya genel kullanım için hazır değilse bu seçeneği işaretleyin . Eklenti listelenir ama daha az görünür . bu ayarı daha sonra değiştirebilirsiniz .
