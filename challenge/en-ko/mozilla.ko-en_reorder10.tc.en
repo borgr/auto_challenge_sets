@@ -1,0 +1,747 @@
+complete Themes
+certificate contains unknown critical extension .
+certificate Policy Constraints
+choose Application
+copy
+could not load the image
+could not verify this certificate because it has been revoked .
+documents must have a < code > title < / code > . < a > Learn more < / a >
+enable
+enhanced Tracking Protection
+enter a title
+Grenada
+features
+http Public Key Pinning : { $ hasHPKP }
+http Public Key Pinning : % S
+install Date
+jump
+Kaqchikel
+learn more ...
+learn more about { -brand @-@ short @-@ name } " s Phishing and Malware Protection at < a data @-@ l10n @-@ name = ' firefox _ support ' > support.mozilla.org < / a > .
+learn more about DRM ...
+manage Extension
+manage passwords that are protected and portable .
+manage Protection Settings
+manage Protection Settings
+manage your add @-@ ons ( % S )
+manage Your Languages
+manual proxy configuration
+manufacturer
+map original variable names
+mirror Tab
+more Information
+MouseEvent.mozPressure is deprecated . use PointerEvent.pressure instead .
+new CKL has different issuer than current CKL . delete current CKL .
+new Container Tab
+new Container Tab
+new Document
+new Top Site
+no manifest found to inspect .
+if you have concerns about this add @-@ on 's security , copyright issues , or other concerns that an administrator should look into , enter your comments in the area below . they will be sent to administrators , not the author .
+no requests
+not imported , already in database .
+NSS could not shutdown . objects are still in use .
+port
+record Memory
+redo
+loading & hellip ;
+loading results & hellip ;
+remember logins and passwords for websites
+remove All
+rename profile { $ name }
+report Site Issue ...
+retaining Paths from GC Roots
+send this item to :
+server
+settings ...
+setup will install $ BrandFullNameDA in the following folder . to install in a different folder , click Browse and select another folder . $ _ CLICK
+% S file
+sharing an Application with " % S "
+show inline preview
+show inline preview in the debugger editor
+{ { size _ kb } } KB ( { { size _ b } } bytes )
+name CANNOT be empty .
+size : % S Bytes / % S Bits
+size : % S KB
+need help ?
+you can connect and authorize one now , or cancel . % S wants to register an account with one of your security tokens .
+Swedish
+% S will always remember this page for you .
+switch to Tab
+themes
+the resource from " % 1 $ S " was blocked due to MIME type mismatch ( X @-@ Content @-@ Type @-@ Options : nosniff ) .
+the site at % S has been reported as serving unwanted software and has been blocked based on your security preferences .
+toggle light color scheme simulation for the page
+toggle the recording state of a performance recording .
+try Again
+try setting its < strong > outline @-@ style < / strong > property to something other than < strong > auto < / strong > or < strong > none < / strong > . { learn @-@ more }
+unable to communicate securely . peer does not support high @-@ grade encryption .
+update
+use a Securely Generated Password
+user Agent String
+use recommended performance settings
+verified by : % S
+preliminary Reviews
+website
+read more about the source code review policy .
+account recovery enabled
+add
+add @-@ ons and Preferences do not currently sync on mobile devices .
+add @-@ ons and Preferences do not currently sync on mobile devices .
+app link resent to % ( escapedPhoneNumber ) s . < a % ( escapedBackLinkAttrs ) s > mistyped & nbsp ; number ? < / a >
+app link resent to % ( escapedPhoneNumber ) s . < a % ( escapedBackLinkAttrs ) s > mistyped & nbsp ; number ? < / a >
+app link resent to % ( phoneNumber ) s
+app link resent to % ( phoneNumber ) s
+recently Updated
+choose the account you would like to use to sync your tabs , bookmarks , passwords and more .
+confirm sign @-@ in
+create account
+credit card for % ( productName ) s expiring soon
+credit cards
+credit cards
+did you use the system camera ? you must pair from within a Firefox app .
+disable
+enter new password
+enter this secret key into your authentication app :
+event Name
+failed to send email
+Firefox Account verified
+Firefox Account verified . you 're almost there .
+remove Both
+for added security , please confirm this sign @-@ in from the following device :
+generate a new recovery key
+remove from favorites
+generate a recovery key to regain access to your Firefox bookmarks , passwords , and synced data if you forget your password .
+generate codes
+here 's your reminder to sync devices .
+home
+hours ago
+last active : months ago
+missing parameter in request body : % ( param ) s
+new recovery codes generated
+Oh dear , something went wrong there . we 've been notified and will get working on a fix .
+old password
+safety and privacy online with Firefox and Mozilla
+SMS not sent , please try again
+SMS sent
+the confirmation email we sent to % ( email ) s was returned and we 've locked your account to protect your Firefox data .
+" % 1 $ S " start tag in table body .
+accessibility
+a compact theme with a light color scheme .
+automatically save edited files before running project
+sign Out
+bookmark All Tabs ...
+bookmark All Tabs ...
+cancel
+cancel
+cancel All Downloads ?
+can 't call pprint on this type of object .
+CC Graph Reduction
+center :
+certificate Files
+change this add @-@ on 's options
+change this add @-@ on 's preferences
+statistics
+change this add @-@ on 's preferences
+check For Updates
+composite Layers
+copy
+create new directory
+default Browser
+description
+device ID ( GPU # 2 )
+device Pixel Ratio
+device Preferences
+device Preferences
+device Settings
+email Image ...
+Eritrea
+exception :
+expected ' : ' but found ' % 1 $ S ' .
+expected ' ) ' but found ' % 1 $ S ' .
+expected charset string but found ' % 1 $ S ' .
+expected color but found ' % 1 $ S ' .
+expected coordinate pair but found ' % 1 $ S ' .
+expected declaration but found ' % 1 $ S ' .
+expected ' { ' to begin @ font @-@ face rule but found ' % 1 $ S ' .
+expected ' { ' to begin @ supports rule but found ' % 1 $ S ' .
+expected ' ( ' to start media query expression but found ' % 1 $ S ' .
+expected ' ] ' to terminate attribute selector but found ' % 1 $ S ' .
+expected ' ; ' to terminate declaration but found ' % 1 $ S ' .
+expected URI in @ import rule but found ' % 1 $ S ' .
+expected URI in @ -moz @-@ document rule but found ' % 1 $ S ' .
+theme Design
+theme name
+theme Review for { 0 }
+fallback Text Encoding :
+finish
+& Finish
+Firefox Developer Tools can debug remote devices ( Firefox for Android and Firefox OS , for example ) . make sure that you have turned on the " Remote debugging " option in the remote device . for more , see the
+Firefox doesn 't know how to communicate with the server .
+fonts
+for caveats in the generation of this report .
+forget about some browsing history
+format
+for your protection , it is highly recommended that you restart with these add @-@ ons disabled .
+found unclosed string ' % 1 $ S ' .
+full hash
+there was an error accessing file % s . % s .
+here
+are you sure you want to go offline ? if you go offline now , % S downloads will be canceled .
+if you no longer want to be reminded about upgrading Sync , you can unlink your old Sync account to remove it .
+if you quit now , 1 download will be canceled . are you sure you want to quit ?
+this url is already in use by another collection
+late Writes
+Latin
+layout
+learn more
+loaded from disk
+loading
+location
+location
+look in :
+main Process
+MB of space
+message not sent .
+MessagePort
+meta ( 1 tag )
+name
+new Document
+( no Spelling Suggestions )
+no table row to close .
+note
+notification Permissions
+only valid for the lifetime of the browser session
+override the colors specified by the page with my selections above :
+page Footers :
+permission denied for < % 2 $ S > to create wrapper for object of class % 1 $ S
+recently Closed Windows
+restore only the ones you want
+restore your search settings ?
+save File As
+search and replace in page elements
+serif :
+add a review for { 0 }
+who reviews my add @-@ on ?
+show password
+show subsession data
+siblings
+sign In To Sync
+% S Image
+some audio or video on this site uses DRM software , which may limit what % S can let you do with it .
+some & brandShortName ; features make use of web @-@ based information services , however , we CANNOT guarantee they are 100 & # 37 ; accurate or error @-@ free . more details , including information on how to disable the features that use these services , can be found in the
+store as global variable
+text area
+the following cookies are stored on your computer :
+these settings are tailored to your computer 's hardware and operating system .
+the site at % S has been reported as serving unwanted software and has been blocked based on your security preferences .
+the update will be installed the next time & brandShortName ; starts . you can restart & brandShortName ; now , or continue working and restart later .
+toggle Editor
+about this language pack
+toggle filter bar
+toggle Responsive Design Mode
+toggle Sidebar
+toggle Sidebar
+toggle style sheet visibility
+to improve video quality , you may need to install Microsoft 's Platform Update Supplement for Windows Vista .
+Tonga
+toolbar
+toolbars
+toolbox Options
+touch
+Turks and Caicos Islands
+< unknown location >
+unknown ( not cached )
+unselected
+add @-@ on Compatibility Reporter has been installed
+be careful with old versions ! these versions are displayed for testing and reference purposes .
+Western
+when the shield is visible , that means Firefox is actively blocking content that tracks you .
+light
+OK , Got It
+resend Email
+search in Firefox
+search in Firefox
+search in Firefox
+search in Firefox
+share
+what 's New
+{ { clientShortname } } logo
+{ { clientShortname } } requires access to your camera and microphone .
+disconnect
+rejoin Conversation
+you have joined { { chatHeaderName } }
+select a product to leave feedback for .
+deceased date
+personal interests
+photos
+add @-@ on All @-@ Star
+add two contacts for making " In Case of Emergency " calls .
+are you sure you want to cancel all downloads ?
+author
+report this add @-@ on for abuse
+cancel
+reviewed add @-@ ons
+close
+close
+close
+copy / Paste
+default
+delete
+delete messages
+delete { { name } }
+developer
+dial { { phoneNumber } } via
+do you want to retry ?
+every day
+FDN active
+file is too large to download .
+file not found
+sorry , but we can 't find anything at the address you entered .
+file sent
+first item
+sort add @-@ ons by
+format SD card
+from
+from
+from { { from } } to { { to } }
+from { { number } }
+fullscreen
+gallery
+generic failure
+hardware Platform
+submit and manage extensions and themes
+headings
+submit a New Theme
+help
+HNCK code
+home
+( HRPD network locked )
+import SIM contacts
+incorrect top @-@ up code entered .
+Internet
+invalid phone number
+invalid service code
+in { { value } } days
+in { { value } } minutes
+just now
+just now
+just now
+the developer removed it . developers commonly do this because they no longer support the extension or theme , or have replaced it .
+last try .
+theme
+theme artist
+{ { level } } % Charged ( { { hours } } h { { minutes } } mins until fully charged )
+{ { limit } } of data used
+limit of { { value } } GB
+lists
+menu
+network depersonalization request failure . refer to your device documentation or contact your carrier for more information . you have { { n } } tries left to enter the correct code .
+send
+line
+STK Query
+stop
+stop
+stop
+stop
+stop
+< strong > { { days } } days < / strong >
+swipe down to access recent notifications , usage information and settings .
+swipe down to access recent notifications , usage information and settings .
+placeholder for message is missing
+T
+the PUK code is incorrect .
+the SIM card is locked
+this account is inactive .
+% 1 $ d selected
+video
+2 . tap < b > Permissions < / b >
+always
+always forward
+add @-@ ons downloaded :
+any
+are you sure you want to cancel this install ?
+bloom
+call log
+connection speeds reduce after the limit is reached . check with your data provider to set an appropriate alert level .
+{ { count } } c
+{ { count } } c
+{ { count } } item
+{ { count } } r
+delete
+fax : { { fax } }
+hide settings
+hours
+in { { value } } hours
+in { { value } } hours
+{ { level } } % Charged
+list item
+media playing
+{ { name } } just crashed .
+{ { name } } , + { { n } } more
+cancel
+{ { n } } attachments
+network depersonalization request failure . refer to your device documentation or contact your carrier for more information . you have { { n } } tries left to enter the correct code .
+{ { n } } events
+cancel
+no Contact to Delete
+no Internet connection
+no memory card found
+not imported yet
+not set
+{ { n } } seconds
+{ { n } } selected
+{ { n } } selected
+{ { n } } unread notifications
+offline
+OK
+other Sounds
+outline item
+over
+passcode
+passwdtxt
+send message
+SSID Network Name
+this file is too large to download .
+{ { value } } h
+downloading and verifying addon ...
+download in progress
+download link
+your device name exceeds { { length } } characters . please retry again .
+you 've exceeded the { { mmsSize } } KB size limit of a single multimedia message . remove attachments or shorten the message to send it .
+block ads and other annoyances
+you have disabled Content Blocking for these websites .
++ Add Another Search Engine
+AutoComplete
+more
+Pacific / Auckland
+Pacific / Bougainville
+Pacific / Chatham
+Pacific / Chuuk
+Pacific / Easter
+Pacific / Efate
+loading
+Pacific / Enderbury
+Pacific / Fakaofo
+XML Document ( % 1 $ S )
+you are pasting meetings and assigned tasks
+you can give your calendar a nickname and colorize the events from this calendar .
+cancel
+details
+language
+new version successfully added .
+sort by :
+stay connected .
+terms of Agreement
+open source libraries we use
+add search @-@ related functionality to Firefox
+update Message of the Day
+the system timed out while trying to log out .
+back to History
+drag and Drop features allow the user to move elements on the screen using the mouse pointer .
+locate a YouTube Video
+it must be at least % ( limit _ value ) s characters . the summary is too short ( % ( show _ value ) s characters ) .
+return to top
+shapes Editor
+stops outside ads , videos , and other content from loading that contains tracking code . may affect some website functionality .
+share
+share large files without prying eyes
+share large files without prying eyes .
+share the video
+share this
+share without a care
+share your open tabs seamlessly across mobile , desktop or tablet with Firefox .
+some websites and ads attach hidden trackers that collect your browsing info long after you 've left . only Firefox Private Browsing has tracking protection to block them automatically .
+a Next @-@ Generation CSS Engine
+another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data - even in normal browsing mode .
+choose your release cadence
+download { -brand @-@ name @-@ firefox } for your smartphone and tablet .
+unlock to view your saved logins
+version % 1 $ s
+save quality content from anywhere . fuel your mind everywhere .
+select what to take from { -brand @-@ name @-@ chrome } .
+sign In
+view Tabs
+enjoy at your own risk . test brand new features daily ( or ... nightly ) .
+there 's an easier way to deal with your passwords
+using the web as the platform , we build open , innovative technologies that allow developers to work free of closed , corporate ecosystems and create faster , safer web experiences for us all .
+you can use { -brand @-@ name @-@ firefox } and still have { -brand @-@ name @-@ chrome } . { -brand @-@ name @-@ chrome } won 't change on your machine one bit .
+you got it . get { -brand @-@ name @-@ firefox } for mobile .
+your EMAIL HERE
+you 've got the web browser that protects your privacy - now it 's time to get a lookout for hackers .
+a URL of a wiki with more information about this group ( optional ) .
+your approved apps :
+2016 l10n Badge
+2016 l10n Badge
+fast . smart . yours
+add group profile
+advanced
+aggregated Metrics
+< a href = " % ( url ) s " > Social Support Contributor < / a > - Respond to tweets about Firefox as the Firefox Brand account .
+application
+approve Translation
+archive this question
+a revision you contributed to has been approved . % ( reviewer ) s has approved a revision to the document % ( document _ title ) s .
+are you sure you want to delete this revision ?
+control how your information is saved or tracked
+create announcement
+extensions
+having trouble with Firefox and want some help ? our support forums are a great place to ask a question .
+improve our help articles
+modified Preferences
+open Badges
+operating system
+our Community is here to help
+Chinese ( China )
+page Not Found
+password
+please confirm your email address .
+quote
+common Voice is part of Mozilla 's initiative to help teach machines how real people speak .
+save the world
+see also
+thank you for your first contribution to the Mozilla support forums ! you just made somebody 's day !
+thank you once more . we are looking forward to seeing you more often around SUMO ! keep rocking !
+the document has been deleted .
+download Dataset Bundle
+this account is already being ignored !
+watch
+watch
+watch forum threads I comment in
+watch this forum
+get Involved
+you might just make someone 's day !
+your Account
+your account was sucessfully closed !
+I 'm okay with you handling this information as you explain in your < a href = " http : / / www.mozilla.org / about / policies / privacy @-@ policy.html " > privacy policy < / a > .
+move tabs to the top
+I 'd like to receive emails such as goal reminders , my progress updates and newsletters about Common Voice .
+give feedback about the { $ title } experiment
+create an Array
+CSS Timing Function Quick Edit : invalid syntax
+curious about Open Source ? < br / > Help us build & amp ; improve thimble !
+navigation inside a website
+original Color
+popular Tags
+% 1 $ S contact moved ; % 1 $ S contacts moved
+% 1 $ S does not use a trusted certificate .
+% 1 $ S is currently in the process of saving a message . \ nWould you like to wait until the message has been saved before quitting or quit now ?
+account
+all address books for the specified account have already been added .
+all Body Parts
+no gravatar found for your email
+April
+before sending this page
+birthday :
+block
+other Voice Datasets
+$ BrandShortName is already running . \ n \ nPlease close $ BrandShortName prior to launching the version you have just installed .
+{ -brand @-@ short @-@ name } lets you organize all your contacts in an address book . you can also connect to a remote address book to keep all your contacts in sync .
+Chinese
+compacting folder ...
+completing the $ BrandFullNameDA Setup Wizard
+composer CANNOT edit HTML framesets , or pages with inline frames . for framesets , try editing the page for each frame separately . for pages with iframes , save a copy of the page and remove the < iframe > tag .
+composition Toolbar
+configuration found on % 1 $ S installation
+connection reset by peer
+create as a subfolder of :
+created
+review & Submit
+create Filter From ...
+currently Following
+Romansh Sursilvan
+custom 4
+custom 4 :
+cut
+cut
+Cyrillic ( MacCyrillic )
+data reporting is disabled for this build configuration
+default settings for sending messages
+delete
+& Delete Folder
+set my visibility
+settings
+delete Server
+delete this message
+share my goal
+description
+Skip
+downloading Newsgroups for Offline Use
+duplicate Address Book Name
+Spanish
+each account has an identity , which is the information that identifies you to others when they receive your messages .
+edit Contact
+edit Keyword
+enter your % 1 $ S % 2 $ S ( for example , if your % 1 $ S email address is " % 3 $ S , " your % 2 $ S is " % 4 $ S " ) .
+failed getting Registration Token
+file transfer server
+filter
+filters partially imported from % S. Warnings below :
+filters successfully imported from % S.
+find ...
+first Name
+folder Location
+folders Only
+font
+forward as Attachments
+get Help
+get Messages
+heading 1
+heading 2
+heading 4
+heartbeat received from { $ name } .
+Hebrew ( MacHebrew )
+Hebrew Visual ( ISO @-@ 8859 @-@ 8 )
+height :
+Hello
+this is a use case driven segment containing data to power spoken digit recognition , yes / no detection , and wakeword testing data for < fxLink > Firefox Voice < / fxLink > .
+hide the attachment pane
+home Phone
+host :
+http Proxy :
+if the sender is outside my domain :
+IMAP quota : % S KB used of % S KB total . click for details .
+import OpenPGP Key
+initially Show Attachment Pane
+insert
+insert
+users validate the accuracy of donated clips , checking that the speaker read the sentence correctly .
+insert a laughing face
+insert HTML
+installed languages
+validated Hr. Total
+a table summarizing and comparing how some of the key open source licenses treat distributions , proprietary software linking , and redistribution of code with changes .
+validations
+Jun
+junk Score Origin
+voice is natural , voice is human . that 's why we 're excited about creating usable voice technology for our machines . but to create voice systems , developers need an extremely large amount of voice data .
+key does not expire
+loading message to print ...
+location
+lowest
+lowest
+mark
+mark Folder Read ; Mark Folders Read
+mark Newsgroup Read ; Mark Newsgroups Read
+mark the selected messages as not junk
+me
+medium
+menu Bar
+message
+message
+message
+message Archives
+message Security Info
+messages larger than
+messages more than
+midnight
+move to the next unread message
+moving messages to % S ...
+Mozilla Thunderbird and the Thunderbird logos are trademarks of the Mozilla Foundation .
+why is it important ?
+auto @-@ Approval confirmed for { addon } { version } .
+would you like to request your voice recordings be deleted too , or do you prefer to keep them in the Common Voice dataset ?
+name
+name :
+name :
+new Message from Template
+newsgroups
+newsgroups
+newsgroups
+available in your locale
+new Toolbar
+next
+next Unread
+Nick
+no mailboxes were found to import
+you 're currently set to receive emails such as goal reminders , my progress updates and newsletters about Common Voice
+( note : # 1 messages are selected , the first # 2 are shown )
+notifications
+you 've helped Common Voice reach < goalPercentage > < / goalPercentage > of our daily { $ goalValue } recording goal !
+open
+Organization
+Organization
+Facebook Container creates a boundary between Facebook sites and the rest of the web so it 's harder for Facebook to track you online .
+other provider ...
+next
+photo ID
+photo path ' { $ photo } ' is not readable
+please enter a filename for the current page .
+read
+read and modify bookmarks
+remove account information
+remove this action
+reply All
+reply @-@ to Address :
+restarting ...
+restore the device to its factory settings
+restart with Add @-@ ons Disabled
+restore Defaults
+rows :
+save decrypted attachment
+seconds
+selection List Properties
+send in Plain Text Only
+send Unsent Messages
+show Header
+software installation is currently disabled . click Enable and try again .
+solid Border :
+sorry , $ BrandShortName can 't be installed . please click the OK button for additional information . this version of $ BrandShortName requires $ { MinSupportedVer } or newer and a processor with $ { MinSupportedCPU } support .
+status ( % S )
+% S thinks this message is Junk mail .
+stop
+stop
+store Articles in :
+subject :
+subject , To or Cc
+supplied value not in allowed list
+table
+tags
+Telugu
+the add @-@ on could not be downloaded because of a connection failure on # 2 .
+the config file XML does not contain an email account configuration .
+the connection was reset
+the Enterprise Policies service is active but there are no policies enabled .
+please check the name and try again . the Feed URL could not be found .
+the message was processed by the recipient 's mail client without being displayed . there is no guarantee that the message will be read at a later time .
+the message was sent successfully , but could not be copied to your Sent folder .
+there are no new messages .
+% 1 $ S : % 2 $ S is not a valid language code .
+this is an encrypted message that uses an old and vulnerable mechanism . it could have been modified while in transit , with the intention to steal its contents . to prevent this risk , the contents are not shown .
+this is an OpenPGP message that was apparently corrupted by MS @-@ Exchange . if the message contents isn 't shown as expected , you can try an automatic repair .
+this page asks to use a plugin that can only run in 32 @-@ bit mode
+this will replace existing content .
+title :
+top
+unable to load image
+unable to open the temporary file % S. Check your ' Temporary Directory ' setting .
+undo
+upgrade
+uploaded to % S
+uploading % 2 $ S to % 1 $ S would exceed your space quota .
+basic Information
+use Provider
+user attribute ( JPEG image )
+username
+value
+you must be invited to join % S.
+you should select at least one key in order to perform the selected operation
+you specified encryption for this message , but the application either failed to find the encryption certificate specified in your Mail & Newsgroup Account Settings , or the certificate has expired .
+download Nightly
+explore More Add @-@ ons
+most Thunderbird support questions are answered in the < a href = " % s " > Knowledge Base < / a > .
+most Thunderbird support questions are answered on the < a href = " % s " > Knowledge Base < / a > .
+what 's New
+who We Are
+why we need donations
+with Add @-@ ons ( Extensions & Themes ) and many more features you can change the look and feel of Thunderbird in an instant .
+add Engine
+allow this file to open the { $ scheme } link ?
+allow this file to open the { $ scheme } link with { $ appName } ?
+ask to save logins and passwords for websites
+Asturian
+block access to the about : config page .
+browser Debugger
+comment
+how it works
+bytes received

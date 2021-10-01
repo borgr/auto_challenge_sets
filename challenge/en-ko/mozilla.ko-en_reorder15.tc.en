@@ -1,0 +1,224 @@
+certificate Policy Constraints
+could not verify this certificate because it has been revoked .
+enhanced Tracking Protection
+enter a title
+manage passwords that are protected and portable .
+manual proxy configuration
+MouseEvent.mozPressure is deprecated . use PointerEvent.pressure instead .
+new Document
+if you have concerns about this add @-@ on 's security , copyright issues , or other concerns that an administrator should look into , enter your comments in the area below . they will be sent to administrators , not the author .
+no requests
+NSS could not shutdown . objects are still in use .
+port
+redo
+loading & hellip ;
+loading results & hellip ;
+remember logins and passwords for websites
+rename profile { $ name }
+retaining Paths from GC Roots
+sharing an Application with " % S "
+need help ?
+you can connect and authorize one now , or cancel . % S wants to register an account with one of your security tokens .
+the resource from " % 1 $ S " was blocked due to MIME type mismatch ( X @-@ Content @-@ Type @-@ Options : nosniff ) .
+toggle the recording state of a performance recording .
+use a Securely Generated Password
+user Agent String
+use recommended performance settings
+app link resent to % ( escapedPhoneNumber ) s . < a % ( escapedBackLinkAttrs ) s > mistyped & nbsp ; number ? < / a >
+app link resent to % ( phoneNumber ) s
+app link resent to % ( phoneNumber ) s
+choose the account you would like to use to sync your tabs , bookmarks , passwords and more .
+confirm sign @-@ in
+credit card for % ( productName ) s expiring soon
+did you use the system camera ? you must pair from within a Firefox app .
+remove Both
+for added security , please confirm this sign @-@ in from the following device :
+a compact theme with a light color scheme .
+bookmark All Tabs ...
+bookmark All Tabs ...
+can 't call pprint on this type of object .
+change this add @-@ on 's preferences
+statistics
+expected ' { ' to begin @ font @-@ face rule but found ' % 1 $ S ' .
+expected ' { ' to begin @ supports rule but found ' % 1 $ S ' .
+expected ' ( ' to start media query expression but found ' % 1 $ S ' .
+expected ' ] ' to terminate attribute selector but found ' % 1 $ S ' .
+expected ' ; ' to terminate declaration but found ' % 1 $ S ' .
+expected URI in @ import rule but found ' % 1 $ S ' .
+expected URI in @ -moz @-@ document rule but found ' % 1 $ S ' .
+theme Design
+fallback Text Encoding :
+Firefox Developer Tools can debug remote devices ( Firefox for Android and Firefox OS , for example ) . make sure that you have turned on the " Remote debugging " option in the remote device . for more , see the
+here
+MB of space
+message not sent .
+MessagePort
+meta ( 1 tag )
+only valid for the lifetime of the browser session
+page Footers :
+restore only the ones you want
+restore your search settings ?
+save File As
+serif :
+who reviews my add @-@ on ?
+sign In To Sync
+some audio or video on this site uses DRM software , which may limit what % S can let you do with it .
+these settings are tailored to your computer 's hardware and operating system .
+about this language pack
+toggle filter bar
+toggle Sidebar
+toggle Sidebar
+Tonga
+toolbar
+toolbars
+< unknown location >
+unknown ( not cached )
+light
+resend Email
+search in Firefox
+search in Firefox
+share
+rejoin Conversation
+personal interests
+add two contacts for making " In Case of Emergency " calls .
+author
+reviewed add @-@ ons
+close
+close
+close
+delete messages
+dial { { phoneNumber } } via
+do you want to retry ?
+file not found
+sorry , but we can 't find anything at the address you entered .
+file sent
+first item
+gallery
+submit a New Theme
+help
+HNCK code
+incorrect top @-@ up code entered .
+just now
+the developer removed it . developers commonly do this because they no longer support the extension or theme , or have replaced it .
+limit of { { value } } GB
+send
+line
+the PUK code is incorrect .
+% 1 $ d selected
+always
+connection speeds reduce after the limit is reached . check with your data provider to set an appropriate alert level .
+delete
+list item
+cancel
+no Internet connection
+{ { n } } unread notifications
+offline
+your device name exceeds { { length } } characters . please retry again .
++ Add Another Search Engine
+AutoComplete
+Pacific / Chuuk
+Pacific / Easter
+Pacific / Efate
+XML Document ( % 1 $ S )
+you are pasting meetings and assigned tasks
+you can give your calendar a nickname and colorize the events from this calendar .
+language
+stay connected .
+add search @-@ related functionality to Firefox
+share large files without prying eyes
+share large files without prying eyes .
+share the video
+a Next @-@ Generation CSS Engine
+another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data - even in normal browsing mode .
+save quality content from anywhere . fuel your mind everywhere .
+view Tabs
+a URL of a wiki with more information about this group ( optional ) .
+fast . smart . yours
+advanced
+aggregated Metrics
+application
+control how your information is saved or tracked
+having trouble with Firefox and want some help ? our support forums are a great place to ask a question .
+page Not Found
+please confirm your email address .
+common Voice is part of Mozilla 's initiative to help teach machines how real people speak .
+watch this forum
+get Involved
+you might just make someone 's day !
+all address books for the specified account have already been added .
+all Body Parts
+before sending this page
+completing the $ BrandFullNameDA Setup Wizard
+composition Toolbar
+configuration found on % 1 $ S installation
+connection reset by peer
+created
+create Filter From ...
+Romansh Sursilvan
+Cyrillic ( MacCyrillic )
+data reporting is disabled for this build configuration
+default settings for sending messages
+delete
+share my goal
+description
+Spanish
+each account has an identity , which is the information that identifies you to others when they receive your messages .
+filters partially imported from % S. Warnings below :
+first Name
+folders Only
+get Messages
+heading 1
+heading 4
+IMAP quota : % S KB used of % S KB total . click for details .
+import OpenPGP Key
+initially Show Attachment Pane
+insert HTML
+Jun
+junk Score Origin
+location
+lowest
+lowest
+mark
+mark Newsgroup Read ; Mark Newsgroups Read
+mark the selected messages as not junk
+me
+message
+message Security Info
+messages larger than
+messages more than
+midnight
+auto @-@ Approval confirmed for { addon } { version } .
+name :
+new Message from Template
+next Unread
+Nick
+you 're currently set to receive emails such as goal reminders , my progress updates and newsletters about Common Voice
+Organization
+Organization
+photo ID
+restarting ...
+save decrypted attachment
+sorry , $ BrandShortName can 't be installed . please click the OK button for additional information . this version of $ BrandShortName requires $ { MinSupportedVer } or newer and a processor with $ { MinSupportedCPU } support .
+status ( % S )
+% S thinks this message is Junk mail .
+subject :
+supplied value not in allowed list
+table
+the message was processed by the recipient 's mail client without being displayed . there is no guarantee that the message will be read at a later time .
+the message was sent successfully , but could not be copied to your Sent folder .
+% 1 $ S : % 2 $ S is not a valid language code .
+title :
+uploaded to % S
+username
+you must be invited to join % S.
+you should select at least one key in order to perform the selected operation
+you specified encryption for this message , but the application either failed to find the encryption certificate specified in your Mail & Newsgroup Account Settings , or the certificate has expired .
+what 's New
+who We Are
+why we need donations
+with Add @-@ ons ( Extensions & Themes ) and many more features you can change the look and feel of Thunderbird in an instant .
+allow this file to open the { $ scheme } link ?
+allow this file to open the { $ scheme } link with { $ appName } ?
+comment
+how it works
+bytes received
